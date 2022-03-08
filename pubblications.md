@@ -9,7 +9,12 @@ He has co-authored some papers to international conferences and to important jou
 
 <img align="center"  width="64px" src="icons/orcid.png" style="padding: 0px 15px 15px 0px"/> [Orcid](https://orcid.org/0000-0002-9252-907X)
 
+
+
+
 He is also a co-Editor of a book entitled "Artificial Intelligence Applied to Satellite-based Remote Sensing Data for Earth Observation” available on [the IET](https://shop.theiet.org/artificial-intelligence-applied-to-satellite-based-remote-sensing-data-for-earth-observation).
+
+![](imgs/iet-book.jpg)
 
 ## 2021
 - Zaidenberg, D. A., Sebastianelli, A., Spiller, D., Saux, B. L., & Ullo, S. L. (2021). Advantages and Bottlenecks of Quantum Machine Learning for Remote Sensing. arXiv preprint arXiv:2101.10657.
