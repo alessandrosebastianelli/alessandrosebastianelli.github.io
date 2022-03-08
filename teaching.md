@@ -64,4 +64,3 @@ I have been a co-Supervisor of MIT students under a joint program of [MIT](https
 - **Team**: 
     - (University of Sannio) Silvia Ullo, Stefania Sica, Alessandro Sebastianelli, Maria Pia Del Rosso and Federica Piccirillo
     - (MIT) Max Langenkamp and Tuomas Oikarinen
-
