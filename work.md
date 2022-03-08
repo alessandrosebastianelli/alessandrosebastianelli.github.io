@@ -5,7 +5,7 @@
 
 **Main activities and responsibilities**: Research activity on satellite data and application development, mainly for structural monitoring, based on SAR and optical satellite data. Use and validation of a tool for the measurement of displacements.
 
-**Acquired skills and achieved objectives**: Employed as: office worker - consulting/collaboration | Business or sector Engineering and design, computer science, data processing and acquisition
+**Acquired skills and achieved objectives**: Employed as: office worker - consulting/collaboration; Business or sector: Engineering and design, computer science, data processing and acquisition
 
 # Visiting Researcher
 ## Jul 2019, [ESA, ESRIN, ⏀-lab](https://philab.phi.esa.int)
