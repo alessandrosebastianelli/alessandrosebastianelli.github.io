@@ -1,4 +1,4 @@
-[Awards](awards.md) --- [Pubblications](pubblications.md) --- [Teaching](teaching.md) --- [Work Experience](work.md) --- [Photography](photo.md)
+[Awards](awards.md) --- [Pubblications](pubblications.md) --- [Teaching](teaching.md) --- [Work Experience](work.md) --- [Photography](education.md)
 
 # About me
 <div>
