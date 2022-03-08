@@ -3,7 +3,7 @@
 # About me
 <div>
 <p>
-    <img src="imgs/alessandro_sebastianelli.jpg" width="400" style="float: left; padding: 0px 15px 0px 0px"/>
+    <img src="imgs/alessandro_sebastianelli.jpg" width="450" style="float: left; padding: 0px 15px 0px 0px"/>
     <p style="padding: 0px 15px 0px 15px" align="justify">
     Alessandro Sebastianelli graduated with laude in Electronic Engineering for Automation and Telecommunications at the University of Sannio in October 2019. 
     </p>
