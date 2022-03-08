@@ -8,6 +8,9 @@ I have been a co-Relator of thesis in Electronic Engineering:
 - Tony De Corso: "Application of DInSAR technique to high coherence satellite images for strategic infrastructure monitoring: Morandi Bridge"
 - Francesco Mauro: "Analysis of the correlation between Sentinel-5P data and epidemiological data. Case study: spread of Covid-19 in the Lombardy region."
 - Morena Gismondi: "Use of Sentinel-5P data for the analysis of the correlation between NO2 levels and data on mobility in areas with a high number of infections due to Covid-19. Case study: Lombardy Region"
+- Simona Reale: "Performance analysis for a novel dataset splitting method for machine learning. Case study: Volcanic eruptions detection"
+- Luigi Russo: "Development of a machine learning model based on "categorical boosting" for the correlation of tropospheric and on-ground NO2"
+- Pietro Di Stasio: "Use of Sentinel-5P data for the early-detection of volcanic eruptions through on-board AI"
 
 # MIT student co-supervisor
 I have been a co-Supervisor of MIT students under a joint program of [MIT](https://www.mit.edu) and University of Sannio through the MIT Science and TechnologyInitiative (MISTI).
