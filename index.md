@@ -1,9 +1,9 @@
-[Awards](awards.md) --- [Pubblications](pubblications.md) --- [Teaching](teaching.md) --- [Work Experience](work.md)
+[Awards](awards.md) --- [Pubblications](pubblications.md) --- [Teaching](teaching.md) --- [Work Experience](work.md) --- [Photography](photo.md)
 
 # About me
 <div>
 <p>
-    <img src="imgs/alessandro_sebastianelli.jpg" width="300" style="float: left; padding: 0px 15px 0px 0px"/>
+    <img src="imgs/alessandro_sebastianelli.jpg" width="350" style="float: left; padding: 0px 15px 0px 0px"/>
     <p style="padding: 0px 15px 0px 15px" align="justify">
     Alessandro Sebastianelli graduated with laude in Electronic Engineering for Automation and Telecommunications at the University of Sannio in October 2019. 
     </p>
