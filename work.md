@@ -12,4 +12,4 @@
 
 **Main activities and responsibilities**: Creation of neural networks for earth observation applications. Implementation of scripts for creating satellite image datasets. Monitoring of natural disasters such as landslides and volcanic eruptions. Creation of networks for filtering satellite data. Creation of artificial satellite image datasets. Processing of Sentinel data.
 
-**Acquired skills and achieved objectives**: Advanced concepts of machine learning and neural networks, advanced concepts of Python programming, advanced concepts of data science. Management of computing power and work on virtual machines. Team working. Organization of a side event in the -week of 2019.
+**Acquired skills and achieved objectives**: Advanced concepts of machine learning and neural networks, advanced concepts of Python programming, advanced concepts of data science. Management of computing power and work on virtual machines. Team working. Organization of a side event in the ⏀-week of 2019.
