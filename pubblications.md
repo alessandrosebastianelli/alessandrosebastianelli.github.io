@@ -17,10 +17,16 @@ He is also a co-Editor of a book entitled "Artificial Intelligence Applied to Sa
 ![](imgs/iet-book.jpg)
 
 ## 2021
+- Sebastianelli, A., Zaidenberg, D. A., Spiller, D., Le Saux, B., & Ullo, S. L. (2021). On Circuit-based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
+- Sebastianelli, A., Nowakowski, A., Puglisi, E., Del Rosso, M. P., Mifdal, J., Pirri, F., ... & Ullo, S. L. (2021). Spatio-Temporal SAR-Optical Data Fusion for Cloud Removal via a Deep Hierarchical Model. arXiv preprint arXiv:2106.12226. Submitted to IEEE Transactions on Geoscience and Remote Sensing.
+- Sebastianelli, A., Del Rosso, M. P., & Ullo, S. L. (2021). A SAR speckle filter based on Residual Convolutional Neural Networks. arXiv preprint arXiv:2104.09350. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
+- Del Rosso, M. P., Sebastianelli, A., Spiller, D., Mathieu, P. P., & Ullo, S. L. (2021). On-Board Volcanic Eruption Detection through CNNs and Satellite Multispectral Imagery. Remote Sensing, 13(17), 3479.
 - Zaidenberg, D. A., Sebastianelli, A., Spiller, D., Saux, B. L., & Ullo, S. L. (2021). Advantages and Bottlenecks of Quantum Machine Learning for Remote Sensing. arXiv preprint arXiv:2101.10657.
-- Sebastianelli, A., Del Rosso, M. P., & Ullo, S. L. (2020). Automatic Dataset Builder for Machine Learning Applications to Satellite Imagery. arXiv preprint arXiv:2008.01578.
+- Sebastianelli, A., Del Rosso, M. P., & Ullo, S. L. (2021). Automatic dataset builder for Machine Learning applications to satellite imagery. SoftwareX, 15, 100739.
 - Sebastianelli, A., Mauro, F., Di Cosmo, G., Passarini, F., Carminati, M., & Ullo, S. L. (2021). AIRSENSE-TO-ACT: A Concept Paper for COVID-19 Countermeasures Based on Artificial Intelligence Algorithms and Multi-Source Data Processing. ISPRS International Journal of Geo-Information, 10(1), 34.
 - S. L. Ullo and A. Mohan and A. Sebastianelli and S. E. Ahamed and B. Kumar and R. Dwivedi and G. R. Sinha, "A New Mask R-CNN Based Method for Improved Landslide Detection," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2021.3064981.
+- Sebastianelli, A., Tipaldi, M., Glielmo, L. & Ullo, S. L. A Deep Q-Learning based approach applied to the Snake game. 29th Mediterranean Conference on Control and Automation. (2021)
+- Rochelle Schneider, Alessandro Sebastianelli, Dario Spiller, James Wheeler, Raquel Carmo, Artur Nowakowski, Manuel Garcia-Herranz, Dohyung Kim, Hanoch Barlevi, Zoraya El Raiss Cordero, Silvia Liberata Ullo, Pierre-Philippe Mathieu & Rachel Lowe. Climate-based ensemble machine learning model to forecast Dengue epidemics (Papers Track). ICML 2021 Workshop Tackling Climate Change with Machine Learning (2021). https://www.climatechange.ai/papers/icml2021/10.
 
 ## 2020
 - De Corso, T., Mignone, L., Sebastianelli, A., Del Rosso, M. P., Yost, C., Ciampa, E., ... & Sica, S. (2020). Application of DInSAR Technique to High Coherence Satellite Images for Strategic Infrastructure Monitoring. In IEEE International Geoscience and Remote Sensing Symposium, IGARSS 2020. Institute of Electrical and Electronics Engineers Inc..
