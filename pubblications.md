@@ -14,7 +14,10 @@ He has co-authored some papers to international conferences and to important jou
 
 He is also a co-Editor of a book entitled "Artificial Intelligence Applied to Satellite-based Remote Sensing Data for Earth Observation” available on [the IET](https://shop.theiet.org/artificial-intelligence-applied-to-satellite-based-remote-sensing-data-for-earth-observation).
 
-![](imgs/iet-book.jpg)
+<p align="center">
+  <img src="imgs/iet-book.jpg" />
+</p>
+
 
 ## 2021
 - Sebastianelli, A., Zaidenberg, D. A., Spiller, D., Le Saux, B., & Ullo, S. L. (2021). On Circuit-based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
