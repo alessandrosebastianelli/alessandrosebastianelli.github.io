@@ -21,12 +21,12 @@ He is also a co-Editor of a book entitled "Artificial Intelligence Applied to Sa
 
 # 2021
 
-<p style="padding: 0px 15px 0px 15px" align="justify">
 
 ## On Circuit-based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
 **Sebastianelli, A., Zaidenberg, D. A., Spiller, D., Le Saux, B., & Ullo, S. L.**
 
+<p style="padding: 0px 15px 0px 15px" align="justify">
     This article aims to investigate how circuit-based hybrid quantum convolutional neural networks (QCNNs) can be successfully employed as image classifiers in the context of remote sensing. The hybrid QCNNs enrich the classical architecture of convolutional neural networks by introducing a quantum layer within a standard neural network. The novel QCNN proposed in this work is applied to the land-use and land-cover classification, chosen as an Earth observation (EO) use case, and tested on the EuroSAT dataset used as the reference benchmark. The results of the multiclass classification prove the effectiveness of the presented approach by demonstrating that the QCNN performances are higher than the classical counterparts. Moreover, investigation of various quantum circuits shows that the ones exploiting quantum entanglement achieve the best classification scores. This study underlines the potentialities of applying quantum computing to an EO case study and provides the theoretical and experimental background for future investigations.
 </p>
 
