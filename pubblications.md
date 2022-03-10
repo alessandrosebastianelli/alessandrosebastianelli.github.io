@@ -22,6 +22,7 @@ He is also a co-Editor of a book entitled "Artificial Intelligence Applied to Sa
 # 2021
 ## On Circuit-based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
+
 **Sebastianelli, A., Zaidenberg, D. A., Spiller, D., Le Saux, B., & Ullo, S. L.**
 
 <p style="padding: 0px 15px 0px 15px" align="justify">
@@ -31,6 +32,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 
 ## Spatio-Temporal SAR-Optical Data Fusion for Cloud Removal via a Deep Hierarchical Model
 Submitted to IEEE Transactions on Geoscience and Remote Sensing.
+
 **Sebastianelli, A., Nowakowski, A., Puglisi, E., Del Rosso, M. P., Mifdal, J., Pirri, F., ... & Ullo, S. L.**
 
 <p style="padding: 0px 15px 0px 15px" align="justify">
