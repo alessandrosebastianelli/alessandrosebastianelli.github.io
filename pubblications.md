@@ -19,8 +19,22 @@ He is also a co-Editor of a book entitled "Artificial Intelligence Applied to Sa
 </p>
 
 
-## 2021
-- Sebastianelli, A., Zaidenberg, D. A., Spiller, D., Le Saux, B., & Ullo, S. L. (2021). On Circuit-based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
+# 2021
+
+
+
+## On Circuit-based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
+**Sebastianelli, A., Zaidenberg, D. A., Spiller, D., Le Saux, B., & Ullo, S. L.**
+
+<p style="padding: 0px 15px 0px 15px" align="justify">
+    This article aims to investigate how circuit-based hybrid quantum convolutional neural networks (QCNNs) can be successfully employed as image classifiers in the context of remote sensing. The hybrid QCNNs enrich the classical architecture of convolutional neural networks by introducing a quantum layer within a standard neural network. The novel QCNN proposed in this work is applied to the land-use and land-cover classification, chosen as an Earth observation (EO) use case, and tested on the EuroSAT dataset used as the reference benchmark. The results of the multiclass classification prove the effectiveness of the presented approach by demonstrating that the QCNN performances are higher than the classical counterparts. Moreover, investigation of various quantum circuits shows that the ones exploiting quantum entanglement achieve the best classification scores. This study underlines the potentialities of applying quantum computing to an EO case study and provides the theoretical and experimental background for future investigations.
+</p>
+
+
+
+
+
 - Sebastianelli, A., Nowakowski, A., Puglisi, E., Del Rosso, M. P., Mifdal, J., Pirri, F., ... & Ullo, S. L. (2021). Spatio-Temporal SAR-Optical Data Fusion for Cloud Removal via a Deep Hierarchical Model. arXiv preprint arXiv:2106.12226. Submitted to IEEE Transactions on Geoscience and Remote Sensing.
 - Sebastianelli, A., Del Rosso, M. P., & Ullo, S. L. (2021). A SAR speckle filter based on Residual Convolutional Neural Networks. arXiv preprint arXiv:2104.09350. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
 - Del Rosso, M. P., Sebastianelli, A., Spiller, D., Mathieu, P. P., & Ullo, S. L. (2021). On-Board Volcanic Eruption Detection through CNNs and Satellite Multispectral Imagery. Remote Sensing, 13(17), 3479.
