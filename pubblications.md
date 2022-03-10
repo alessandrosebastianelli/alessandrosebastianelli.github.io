@@ -20,8 +20,6 @@ He is also a co-Editor of a book entitled "Artificial Intelligence Applied to Sa
 
 
 # 2021
-
-
 ## On Circuit-based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
 **Sebastianelli, A., Zaidenberg, D. A., Spiller, D., Le Saux, B., & Ullo, S. L.**
@@ -31,10 +29,16 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 </p>
 
 
+## Spatio-Temporal SAR-Optical Data Fusion for Cloud Removal via a Deep Hierarchical Model
+Submitted to IEEE Transactions on Geoscience and Remote Sensing.
+**Sebastianelli, A., Nowakowski, A., Puglisi, E., Del Rosso, M. P., Mifdal, J., Pirri, F., ... & Ullo, S. L.**
+
+<p style="padding: 0px 15px 0px 15px" align="justify">
+    Cloud removal is a relevant topic in Remote Sensing as it fosters the usability of high-resolution optical images for Earth monitoring and study. Related techniques have been analyzed for years with a progressively clearer view of the appropriate methods to adopt, from multi-spectral to inpainting methods. Recent applications of deep generative models and sequence to sequence-based models have proved their capability to advance the field significantly. Nevertheless, there are still some gaps, mostly related to the amount of cloud coverage, the density and thickness of clouds, and the occurred temporal landscape changes. In this work, we fill some of these gaps by introducing a novel multi-modal method that uses different sources of information, both spatial and temporal, to restore the whole optical scene of interest. The proposed method introduces an innovative deep architecture, using the outcomes of both temporal-sequence blending and direct translation from Synthetic Aperture Radar (SAR) to optical images to obtain a pixel-wise restoration of the whole scene. The advantage of our approach is demonstrated across a variety of atmospheric conditions tested on a dataset we have generated and made available. Quantitative and qualitative results prove that the proposed method obtains cloud-free images, preserving scene details without resorting to a huge portion of a clean image and coping with landscape changes.
+</p>
 
 
 
-- Sebastianelli, A., Nowakowski, A., Puglisi, E., Del Rosso, M. P., Mifdal, J., Pirri, F., ... & Ullo, S. L. (2021). Spatio-Temporal SAR-Optical Data Fusion for Cloud Removal via a Deep Hierarchical Model. arXiv preprint arXiv:2106.12226. Submitted to IEEE Transactions on Geoscience and Remote Sensing.
 - Sebastianelli, A., Del Rosso, M. P., & Ullo, S. L. (2021). A SAR speckle filter based on Residual Convolutional Neural Networks. arXiv preprint arXiv:2104.09350. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
 - Del Rosso, M. P., Sebastianelli, A., Spiller, D., Mathieu, P. P., & Ullo, S. L. (2021). On-Board Volcanic Eruption Detection through CNNs and Satellite Multispectral Imagery. Remote Sensing, 13(17), 3479.
 - Zaidenberg, D. A., Sebastianelli, A., Spiller, D., Saux, B. L., & Ullo, S. L. (2021). Advantages and Bottlenecks of Quantum Machine Learning for Remote Sensing. arXiv preprint arXiv:2101.10657.
