@@ -3,11 +3,7 @@
 # Pubblications
 He has co-authored some papers to international conferences and to important journals for the sector of Remote Sensing. 
 
-<img align="center" width="64px" src="icons/googlescholar.png" style="padding: 0px 15px 15px 0px"/> [Google Scholar](https://scholar.google.com/citations?hl=it&user=WoTTS-UAAAAJ) 
-
-<img align="center" width="64px" src="icons/researchgate.png" style="padding: 0px 15px 15px 0px"/>[Research Gate](https://www.researchgate.net/profile/Alessandro-Sebastianelli) 
-
-<img align="center"  width="64px" src="icons/orcid.png" style="padding: 0px 15px 15px 0px"/> [Orcid](https://orcid.org/0000-0002-9252-907X)
+<img align="left" width="64px" src="icons/googlescholar.png" style="padding: 0px 15px 15px 0px"/> [Google Scholar](https://scholar.google.com/citations?hl=it&user=WoTTS-UAAAAJ)  <img align="center" width="64px" src="icons/researchgate.png" style="padding: 0px 15px 15px 0px"/>[Research Gate](https://www.researchgate.net/profile/Alessandro-Sebastianelli) <img align="center"  width="64px" src="icons/orcid.png" style="padding: 0px 15px 15px 0px"/> [Orcid](https://orcid.org/0000-0002-9252-907X)
 
 
 
