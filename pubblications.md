@@ -3,7 +3,7 @@
 # Pubblications
 He has co-authored some papers to international conferences and to important journals for the sector of Remote Sensing. 
 
-<img align="left" width="64px" src="icons/googlescholar.png" style="padding: 0px 15px 15px 0px"/> [Google Scholar](https://scholar.google.com/citations?hl=it&user=WoTTS-UAAAAJ)  <img align="center" width="64px" src="icons/researchgate.png" style="padding: 0px 15px 15px 0px"/>[Research Gate](https://www.researchgate.net/profile/Alessandro-Sebastianelli) <img align="center"  width="64px" src="icons/orcid.png" style="padding: 0px 15px 15px 0px"/> [Orcid](https://orcid.org/0000-0002-9252-907X)
+<img align="center" width="64px" src="icons/googlescholar.png" style="padding: 0px 0px 15px 30px"/> [Google Scholar](https://scholar.google.com/citations?hl=it&user=WoTTS-UAAAAJ)  <img align="center" width="64px" src="icons/researchgate.png" style="padding: 0px 0px 15px 30px"/>[Research Gate](https://www.researchgate.net/profile/Alessandro-Sebastianelli) <img align="center"  width="64px" src="icons/orcid.png" style="padding: 0px 0px 15px 30px"/> [Orcid](https://orcid.org/0000-0002-9252-907X)
 
 
 
@@ -36,9 +36,28 @@ Submitted to IEEE Transactions on Geoscience and Remote Sensing.
 </p>
 
 
+## A speckle filter for SAR Sentinel-1 GRD databased on Residual Convolutional Neural Networks
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 
-- Sebastianelli, A., Del Rosso, M. P., & Ullo, S. L. (2021). A SAR speckle filter based on Residual Convolutional Neural Networks. arXiv preprint arXiv:2104.09350. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
-- Del Rosso, M. P., Sebastianelli, A., Spiller, D., Mathieu, P. P., & Ullo, S. L. (2021). On-Board Volcanic Eruption Detection through CNNs and Satellite Multispectral Imagery. Remote Sensing, 13(17), 3479.
+**Alessandro Sebastianelli, Maria Pia Del Rosso, Silvia Liberata UlloSilvia Liberata Ullo, Paolo Gamba**
+
+<p style="padding: 0px 15px 0px 15px" align="justify">
+    In recent years, Machine Learning (ML) algorithms have become widespread in all the fields of Remote Sensing (RS) and Earth Observation (EO). This has allowed the rapid development of new procedures to solve problems affecting these sectors. In this context, this work aims at presenting a novel method for filtering speckle noise from Sentinel-1 Ground Range Detected (GRD) data by applying Deep Learning (DL) algorithms, based on Convolutional Neural Networks (CNNs). The paper provides an easy yet very effective approach to extract the large amount of training data needed for DL approaches in this challenging case. The experimental results on simulated speckled images and an actual SAR dataset show a clear improvement with respect to the state of the art in terms of Peak Signal-to-Noise Ratio (PSNR), Structural Similarity Index (SSIM), Equivalent Number of Looks (ENL), proving the effectiveness of the proposed architecture.
+</p>
+
+
+## On-Board Volcanic Eruption Detection through CNNs and Satellite Multispectral Imagery
+Remote Sensing
+
+**Del Rosso, M. P., Sebastianelli, A., Spiller, D., Mathieu, P. P., & Ullo, S. L.**
+
+<p style="padding: 0px 15px 0px 15px" align="justify">
+    In recent years, the growth of Machine Learning (ML) algorithms has raised the number of studies including their applicability in a variety of different scenarios. Among all, one of the hardest ones is the aerospace, due to its peculiar physical requirements. In this context, a feasibility study, with a prototype of an on board Artificial Intelligence (AI) model, and realistic testing equipment and scenario are presented in this work. As a case study, the detection of volcanic eruptions has been investigated with the objective to swiftly produce alerts and allow immediate interventions. Two Convolutional Neural Networks (CNNs) have been designed and realized from scratch, showing how to efficiently implement them for identifying the eruptions and at the same time adapting their complexity in order to fit on board requirements. The CNNs are then tested with experimental hardware, by means of a drone with a paylod composed of a generic processing unit (Raspberry PI), an AI processing unit (Movidius stick) and a camera. The hardware employed to build the prototype is low-cost, easy to found and to use. Moreover, the dataset has been published on GitHub, made available to everyone. The results are promising and encouraging toward the employment of the proposed system in future missions, given that ESA has already moved the first steps of AI on board with the Phisat-1 satellite, launched on September 2020.
+</p>
+
+
+
+
 - Zaidenberg, D. A., Sebastianelli, A., Spiller, D., Saux, B. L., & Ullo, S. L. (2021). Advantages and Bottlenecks of Quantum Machine Learning for Remote Sensing. arXiv preprint arXiv:2101.10657.
 - Sebastianelli, A., Del Rosso, M. P., & Ullo, S. L. (2021). Automatic dataset builder for Machine Learning applications to satellite imagery. SoftwareX, 15, 100739.
 - Sebastianelli, A., Mauro, F., Di Cosmo, G., Passarini, F., Carminati, M., & Ullo, S. L. (2021). AIRSENSE-TO-ACT: A Concept Paper for COVID-19 Countermeasures Based on Artificial Intelligence Algorithms and Multi-Source Data Processing. ISPRS International Journal of Geo-Information, 10(1), 34.
