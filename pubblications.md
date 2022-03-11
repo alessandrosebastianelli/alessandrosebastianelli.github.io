@@ -6,8 +6,6 @@ He has co-authored some papers to international conferences and to important jou
 <img align="center" width="64px" src="icons/googlescholar.png" style="padding: 0px 0px 15px 30px"/> [Google Scholar](https://scholar.google.com/citations?hl=it&user=WoTTS-UAAAAJ)  <img align="center" width="64px" src="icons/researchgate.png" style="padding: 0px 0px 15px 30px"/>[Research Gate](https://www.researchgate.net/profile/Alessandro-Sebastianelli) <img align="center"  width="64px" src="icons/orcid.png" style="padding: 0px 0px 15px 30px"/> [Orcid](https://orcid.org/0000-0002-9252-907X)
 
 
-
-
 He is also a co-Editor of a book entitled "Artificial Intelligence Applied to Satellite-based Remote Sensing Data for Earth Observation” available on [the IET](https://shop.theiet.org/artificial-intelligence-applied-to-satellite-based-remote-sensing-data-for-earth-observation).
 
 <p align="center">
@@ -119,7 +117,6 @@ IEEE International Geoscience and Remote Sensing Symposium
 <p style="padding: 0px 15px 0px 15px" align="justify">
     In this paper the authors present and validate a procedure for bridge monitoring, based on freely available satellite data and the straightforward Differential SAR Interferometry (DInSAR) technique. A displacement dataset of the Morandi bridge in Genoa (Italy) has been created, before its collapse. The outputs obtained were then compared to those found in literature and achieved through the Persistent Scatterer Interferometry (PSI), a more complex and reliable technique. Results demonstrate that the adopted procedure has great potentiality in the application field and could effectively be extended to different types of civil infrastructures.
 </p>
-
 
 # 2019
 
