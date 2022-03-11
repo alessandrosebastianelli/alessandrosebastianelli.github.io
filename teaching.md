@@ -54,7 +54,7 @@ I have been a co-Supervisor of MIT students under a joint program of [MIT](https
     - (University of Sannio) Silvia Ullo, Stefania Sica, Maria Rosaria Pecce, Alessandro Sebastianelli, Maria Pia Del Rosso, Tony De Corso, Luca Mignone, Elena Ciampa
     - (MIT) Claire Yost
 
-### Project A
+### Project C
 - **Title**: Use of Convolutional Neural Networks for landslides detection
 - **Team**: 
     - (University of Sannio) Silvia Ullo, Stefania Sica, Alessandro Sebastianelli, Maria Pia Del Rosso and Federica Piccirillo
