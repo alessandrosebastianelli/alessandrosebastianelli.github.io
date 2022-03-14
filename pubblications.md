@@ -6,10 +6,21 @@ He has co-authored some papers to international conferences and to important jou
 <img align="center" width="64px" src="icons/googlescholar.png" style="padding: 0px 0px 15px 30px"/> [Google Scholar](https://scholar.google.com/citations?hl=it&user=WoTTS-UAAAAJ)  <img align="center" width="64px" src="icons/researchgate.png" style="padding: 0px 0px 15px 30px"/>[Research Gate](https://www.researchgate.net/profile/Alessandro-Sebastianelli) <img align="center"  width="64px" src="icons/orcid.png" style="padding: 0px 0px 15px 30px"/> [Orcid](https://orcid.org/0000-0002-9252-907X)
 
 
-He is also a co-Editor of a book entitled "Artificial Intelligence Applied to Satellite-based Remote Sensing Data for Earth Observation” available on [the IET](https://shop.theiet.org/artificial-intelligence-applied-to-satellite-based-remote-sensing-data-for-earth-observation).
+He is also a co-Editor of a book entitled:
+## Artificial Intelligence Applied to Satellite-based Remote Sensing Data for Earth Observation” 
+**Del Rosso, M. P., Sebastianelli, A. and Ullo, S. L.**
+
+Available on [the IET](https://shop.theiet.org/artificial-intelligence-applied-to-satellite-based-remote-sensing-data-for-earth-observation).
 
 <p align="center">
   <img src="imgs/iet-book.jpg" />
+</p>
+
+<p style="padding: 0px 15px 0px 15px" align="justify">
+    Earth observation (EO) involves the collection, analysis, and presentation of data in order to monitor and assess the status and changes in natural and built environments. This technology has many applications including weather forecasting, tracking biodiversity, measuring land-use change, monitoring and responding to natural disasters, managing natural resources, monitoring emerging diseases and health risks, and predicting, adapting to and mitigating climate change.
+    This book shows how cutting-edge technologies such as artificial intelligence, including neural networks and deep learning, can be applied for processing satellite data for Earth observation. One of the objectives of this book is to explain how to develop a set of libraries for the implementation of artificial intelligence that could overcome some limits and encompass different aspects of research, ranging from data fusion to speckle filtering.
+    In the first part, the authors introduce remote sensing concepts and deep neural networks and convolutional neural networks. In the second part of the book, they present the main tools used for image processing, several simulations and the data processing of specific case studies as well as the testing of related datasets. The book ends with conclusions, open questions and future works and perspectives for artificial intelligence techniques applied to future satellite missions.
+    The book will be of interest to researchers focusing on using machine learning tools to process remote sensing data - particularly satellite data - for Earth observation. The book can also be used as a guide for researchers in many other fields of research who are interested in using ML techniques to process data and get reliable outcomes so they can make informed decisions for their specific objectives.
 </p>
 
 # 2022
