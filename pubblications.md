@@ -10,11 +10,9 @@ He is also a co-Editor of a book entitled:
 ## Artificial Intelligence Applied to Satellite-based Remote Sensing Data for Earth Observation” 
 **Del Rosso, M. P., Sebastianelli, A. and Ullo, S. L.**
 
-Available on [the IET](https://shop.theiet.org/artificial-intelligence-applied-to-satellite-based-remote-sensing-data-for-earth-observation).
+Available on [the IET shop](https://shop.theiet.org/artificial-intelligence-applied-to-satellite-based-remote-sensing-data-for-earth-observation).
 
-<p align="center">
-  <img src="imgs/iet-book.jpg" />
-</p>
+![](imgs/iet-book.jpg)
 
 <p style="padding: 0px 15px 0px 15px" align="justify">
     Earth observation (EO) involves the collection, analysis, and presentation of data in order to monitor and assess the status and changes in natural and built environments. This technology has many applications including weather forecasting, tracking biodiversity, measuring land-use change, monitoring and responding to natural disasters, managing natural resources, monitoring emerging diseases and health risks, and predicting, adapting to and mitigating climate change.
