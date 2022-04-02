@@ -26,6 +26,24 @@ Available on [the IET shop](https://shop.theiet.org/artificial-intelligence-appl
 
 # 2022
 
+## Early Detection of Volcanic Eruption Through Artificial Intelligence on Board
+Submitted to 2022 IEEE International Conference on Metrology for Extended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE) - Special Session #25 - From Artificial Intelligence to Extended Reality for Emergency and Disaster Management
+
+<p style="padding: 0px 15px 0px 15px" align="justify">	
+In this manuscript we propose an early detection system based on Machine Learning (ML) to detect volcanic eruptions. The use of AI-based algorithms and early detection can be exploited to carry out the necessary detections and to inform, for example, law enforcement agencies to guarantee immediate intervention for the protection of people. The main goal of this work is to conceptualize and realize a system to be mounted on-board of satellite with the intent of producing swift alerts useful for decision makers. In the initial phase the proposed ML model is trained with SO2 data acquired by Sentinel-5P. The final scope is to define an on-board system similar to Phi-Sat 1, with its own sensor and its own systems. Our feasibility study has shown that it is possible to classify and identify volcanic eruptions in advance (early-detection) with an accuracy of 80% and 70% respectively.
+</p>
+
+**Di Stasio, P., Sebastianelli, A., Meoni, G. and Ullo, S.L.**
+
+##
+Submitted to 2022 IEEE International Conference on Metrology for Extended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE) - Special Session #25 - From Artificial Intelligence to Extended Reality for Emergency and Disaster Management
+
+**Del Rosso, M.P., Sebastianelli, A., Spiller, D. and Ullo, S.L.**
+
+<p style="padding: 0px 15px 0px 15px" align="justify">
+In recent years, the growth of Machine Learning (ML) algorithms has raised the number of studies including their applicability in a variety of different scenarios. Among all, one of the hardest ones is the aerospace, due to its peculiar physical requirements. In this context, a feasibility study, with a prototype of an on board Artificial Intelligence (AI) model, and realistic testing equipment and scenario are presented in this work. As a case study, the detection of volcanic eruptions has been investigated with the objective to swiftly produce alerts and allow immediate interventions.Before mounting the equipment on possible future satellite missions, validation and testing are required. In this end, experiments must be carried out in advance to prove the efficiency of the proposed architecture. A demo setup has been designed as follows. Experimental hardware is used to test the CNNs, by means of a drone with a payload composed of a generic processing unit (Raspberry PI), an AI processing unit (Movidius stick) and a camera. A strip with an image from a volcanic eruption is printed and used for the demo. The hardware employed to build the prototype is low-cost, easy to found and to use. Moreover, the dataset has been published on GitHub, made available to everyone. The results are promising and encouraging toward the employment of the proposed system in future missions, given that ESA has already moved the first steps of AI on board with the Phi-Sat-1 satellite, launched on September 2020.
+</p>
+
 ## Spatio-Temporal SAR-Optical Data Fusion for Cloud Removal via a Deep Hierarchical Model
 Submitted to IEEE Transactions on Geoscience and Remote Sensing.
 
