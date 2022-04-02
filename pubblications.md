@@ -35,7 +35,7 @@ In this manuscript we propose an early detection system based on Machine Learnin
 
 **Di Stasio, P., Sebastianelli, A., Meoni, G. and Ullo, S.L.**
 
-##
+## A Demo Setup Testing Onboard CNNs for Volcanic Eruption Detection
 Submitted to 2022 IEEE International Conference on Metrology for Extended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE) - Special Session #25 - From Artificial Intelligence to Extended Reality for Emergency and Disaster Management
 
 **Del Rosso, M.P., Sebastianelli, A., Spiller, D. and Ullo, S.L.**
