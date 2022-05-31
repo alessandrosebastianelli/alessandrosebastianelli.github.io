@@ -20,8 +20,10 @@ function setup() {
 }
 
 function draw() {
-  background(255);
-
+  //background(0, 0, 139, 0.722);
+  
+  clear();
+  
   stroke(0);
   strokeWeight(1);
   line(0, start, width, start);
