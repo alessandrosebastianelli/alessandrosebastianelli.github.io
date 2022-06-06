@@ -37,6 +37,7 @@ button {
     text-align: center;
     font-size: 28px;
     width: 3cm;
+    height: 1cm;
     font-size: 7pt;
     transition: all 0.5s;
     cursor: pointer;
