@@ -2,6 +2,8 @@ body{
     text-align: center;
     background: linear-gradient(rgba(0, 0, 139, 0.722), rgba(31, 205, 147, 0.459));
     color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 /* unvisited link */
