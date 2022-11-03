@@ -10,5 +10,5 @@ location: "Rome, Italy"
 
 [More information here](https://metroxraine.org/)
 
-- M. P. Del Rosso, A. Sebastianelli, D. Spiller and S. L. Ullo, "A demo setup testing onboard CNNs for Volcanic Eruption  Detection", in IEEE Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE) [[bibtex](), [paper]()]
-- P. Di Stasio, A. Sebastianelli, G. Meoni and S. L. Ullo, "Early Detection of Volcanic Eruption through Artificial Intelligence on board", in IEEE Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE) [[bibtex](), [paper]()]
+- M. P. Del Rosso, A. Sebastianelli, D. Spiller and S. L. Ullo, "A demo setup testing onboard CNNs for Volcanic Eruption  Detection", in IEEE Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE)
+- P. Di Stasio, A. Sebastianelli, G. Meoni and S. L. Ullo, "Early Detection of Volcanic Eruption through Artificial Intelligence on board", in IEEE Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE)
