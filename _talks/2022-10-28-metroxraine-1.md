@@ -1,0 +1,14 @@
+---
+title: "Papers presentation at IEEE MetroXRAINE2022"
+collection: talks
+type: "Paper presentation"
+permalink: /talks/2022-10-28-metroxraine-1
+venue: "CNR - Centro Nazionale Ricerche"
+date: 2021-10-28
+location: "Rome, Italy"
+---
+
+[More information here](https://metroxraine.org/)
+
+- M. P. Del Rosso, A. Sebastianelli, D. Spiller and S. L. Ullo, "A demo setup testing onboard CNNs for Volcanic Eruption  Detection", in IEEE Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE) [[bibtex](), [paper]()]
+- P. Di Stasio, A. Sebastianelli, G. Meoni and S. L. Ullo, "Early Detection of Volcanic Eruption through Artificial Intelligence on board", in IEEE Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE) [[bibtex](), [paper]()]
