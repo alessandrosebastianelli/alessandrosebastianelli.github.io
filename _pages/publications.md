@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+{: style="text-align: justify" }
 
 I started co-authoring scientific papers since 2018, during these years I collaborated with many researchers
 
