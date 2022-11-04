@@ -33,5 +33,10 @@ var addressPoints = [
     "Reading, United Kingdom",
     51.454916,
     -0.978399
+  ],
+  [
+    "Kuala Lumpur, Malaysia",
+    3.158130,
+    101.709090
   ]
 ];
