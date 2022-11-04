@@ -16,8 +16,8 @@ var addressPoints = [
   ],
   [
     "Benevento, Italy",
-    41.203563,
-    14.752040
+    41.128794,
+    14.788309
   ],
   [
     "Padova, Italy",
@@ -28,5 +28,10 @@ var addressPoints = [
     "Lecce, Italy",
     40.351515,
     18.175016
+  ],
+  [
+    "Reading, United Kingdom",
+    51.454916,
+    -0.978399
   ]
 ];
