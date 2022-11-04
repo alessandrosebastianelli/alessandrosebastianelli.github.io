@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-## Collaborations
+I started co-authoring scientific papers since 2018, during these years I collaborated with many researchers
+
 ![](/images/collaborations.png)
 
 
