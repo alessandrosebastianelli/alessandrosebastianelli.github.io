@@ -33,13 +33,13 @@ IET Digital Library. [[bibtex](bibtex/pbte098e.bib), [book](https://digital-libr
 
 ### 2021
 
-- A. Sebastianelli, D. A. Zaidenberg, D. Spiller, B. L. Saux and S. L. Ullo, "On Circuit-Based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 15, pp. 565-580, 2022, doi: 10.1109/JSTARS.2021.3134785. [[bibtex](bibtex/9647979.bib),[paper](https://ieeexplore.ieee.org/abstract/document/9647979)]
+- A. Sebastianelli, D. A. Zaidenberg, D. Spiller, B. L. Saux and S. L. Ullo, "On Circuit-Based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 15, pp. 565-580, 2022, doi: 10.1109/JSTARS.2021.3134785. [[bibtex](bibtex/9647979.bib), [paper](https://ieeexplore.ieee.org/abstract/document/9647979)]
 
-- D. A. Zaidenberg, A. Sebastianelli, D. Spiller, B. Le Saux and S. L. Ullo, "Advantages and Bottlenecks of Quantum Machine Learning for Remote Sensing," 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 2021, pp. 5680-5683, doi: 10.1109/IGARSS47720.2021.9553133. [[bibtex](bibtex/9553133.bib),[paper](https://ieeexplore.ieee.org/abstract/document/9553133)]
+- D. A. Zaidenberg, A. Sebastianelli, D. Spiller, B. Le Saux and S. L. Ullo, "Advantages and Bottlenecks of Quantum Machine Learning for Remote Sensing," 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 2021, pp. 5680-5683, doi: 10.1109/IGARSS47720.2021.9553133. [[bibtex](bibtex/9553133.bib), [paper](https://ieeexplore.ieee.org/abstract/document/9553133)]
 
 - Del Rosso, Maria P., Alessandro Sebastianelli, Dario Spiller, Pierre P. Mathieu, and Silvia L. Ullo. 2021. "On-Board Volcanic Eruption Detection through CNNs and Satellite Multispectral Imagery" Remote Sensing 13, no. 17: 3479. [[bibtex](bibtex/rs13173479.bib), [paper](https://www.mdpi.com/2072-4292/13/17/3479#cite)]
 
-- Sebastianelli, A., Del Rosso, M. P., & Ullo, S. L. (2021). Automatic dataset builder for Machine Learning applications to satellite imagery. SoftwareX, 15, 100739. [[bibtex](bibtex/S2352711021000728.bib),[paper](https://www.sciencedirect.com/science/article/pii/S2352711021000728)]
+- Sebastianelli, A., Del Rosso, M. P., & Ullo, S. L. (2021). Automatic dataset builder for Machine Learning applications to satellite imagery. SoftwareX, 15, 100739. [[bibtex](bibtex/S2352711021000728.bib), [paper](https://www.sciencedirect.com/science/article/pii/S2352711021000728)]
 
 - A. Sebastianelli, M. Tipaldi, S. L. Ullo and L. Glielmo, "A Deep Q-Learning based approach applied to the Snake game," 2021 29th Mediterranean Conference on Control and Automation (MED), 2021, pp. 348-353, doi: 10.1109/MED51440.2021.9480232. [[bibtex](bibtex/9480232.bib), [paper](https://ieeexplore.ieee.org/abstract/document/9480232)]
 
