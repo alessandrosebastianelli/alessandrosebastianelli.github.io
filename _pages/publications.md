@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-{: style="text-align: justify" }
+
 
 I started co-authoring scientific papers since 2018, during these years I collaborated with many researchers
 
@@ -14,6 +14,7 @@ I started co-authoring scientific papers since 2018, during these years I collab
 
 
 ## Books
+{: style="text-align: justify" }
 - Del Rosso, Maria Pia; Sebastianelli, Alessandro; Ullo, Silvia Liberata (ed.): 'Artificial Intelligence Applied to Satellite-based Remote Sensing Data for Earth Observation' (Telecommunications, 2021) DOI: 
 IET Digital Library. [[bibtex](bibtex/pbte098e.bib), [book](https://digital-library.theiet.org/content/books/te/pbte098e)]
 
