@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+## Collaborations
+![](images/collaborations.png)
+
+
 ## Books
 - Del Rosso, Maria Pia; Sebastianelli, Alessandro; Ullo, Silvia Liberata (ed.): 'Artificial Intelligence Applied to Satellite-based Remote Sensing Data for Earth Observation' (Telecommunications, 2021) DOI: 
 IET Digital Library. [[bibtex](bibtex/pbte098e.bib), [book](https://digital-library.theiet.org/content/books/te/pbte098e)]
