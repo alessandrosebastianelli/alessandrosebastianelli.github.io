@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Collaborations
-![](images/collaborations.png)
+![](/images/collaborations.png)
 
 
 ## Books
