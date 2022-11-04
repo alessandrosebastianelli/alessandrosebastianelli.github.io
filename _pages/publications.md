@@ -20,9 +20,9 @@ IET Digital Library. [[bibtex](bibtex/pbte098e.bib), [book](https://digital-libr
 
 ## Papers
 ### 2022
-
+{: style="text-align: justify" }
 - M. P. Del Rosso, A. Sebastianelli, D. Spiller and S. L. Ullo, "A demo setup testing onboard CNNs for Volcanic Eruption  Detection", in IEEE Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE) [[bibtex](), [paper]()]
-
+{: style="text-align: justify" }
 - P. Di Stasio, A. Sebastianelli, G. Meoni and S. L. Ullo, "Early Detection of Volcanic Eruption through Artificial Intelligence on board", in IEEE Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE) [[bibtex](), [paper]()]
 
 - A. Sebastianelli, M. P. D. Rosso, S. L. Ullo and P. Gamba, "A Speckle Filter for Sentinel-1 SAR Ground Range Detected Data Based on Residual Convolutional Neural Networks," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 15, pp. 5086-5101, 2022, doi: 10.1109/JSTARS.2022.3184355. [[bibtex](bibtex/9800702.bib), [paper](https://ieeexplore.ieee.org/abstract/document/9800702)]
