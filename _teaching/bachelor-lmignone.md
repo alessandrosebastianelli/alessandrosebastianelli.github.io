@@ -4,7 +4,7 @@ collection: teaching
 type: "Bachelor Degree in Electronic Engineering for Automation and Telecommunications"
 permalink: /teaching/bachelor-lmignone
 venue: "University of Sannio, Engineering Department"
-date: 2022-10-18
+date: 2020-10-18
 location: "Benevento, Italy"
 ---
 
