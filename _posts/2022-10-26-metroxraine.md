@@ -1,6 +1,6 @@
 ---
 title: 'News: MetroXRAINE 2022'
-date: 2022-11-07
+date: 2022-10-26
 permalink: /posts/2022-10-26-metroxraine
   - cool posts
   - category1
@@ -14,7 +14,6 @@ permalink: /posts/2022-10-26-metroxraine
 ![](/images/special_section_metroxraine.png)
 
 <h3><a href="https://metroxraine.org/special-session-25" target="_blank">Special Section: From Artificial Intelligence to Extended Reality for Emergency and Disaster Management</a></h3>
-<div id="small">  <img src="../imgs/special_section_metroxraine.png" id='myimg'> </div>
 <div id="small"> Organized by: 
     <a href="https://www.linkedin.com/in/silvia-liberata-ullo-67280717" target="_blank">Silvia Ullo</a>, 
     <a href="https://www.linkedin.com/in/alessandro-sebastianelli-58545915b" target="_blank">Alessandro Sebastianelli</a>, 
