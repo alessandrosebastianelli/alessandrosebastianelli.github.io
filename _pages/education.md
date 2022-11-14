@@ -19,7 +19,7 @@ author_profile: true
 **Thesis co-advisor** <a href="https://www.linkedin.com/in/ppmathieu?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZVLzx0o9Q%2FKQJlzWJaKseg%3D%3D" target="_blank">Dr. Pierre Philippe Mathieu</a> 
             
         
-## Master degree in Electronic Engineering for Automation and Telecommunications</h2>
+## Master degree in Electronic Engineering for Automation and Telecommunications
 ### Sep 2017 – Oct 2019, <a href="https://www.unisannio.it/" target="_blank">University of Sannio</a>
 
 **Specific field of the degree course**: Electronic Engineering for Automation and Telecommunications, LM-29 - 2nd level degree in Electronic Engineering.
@@ -32,19 +32,21 @@ author_profile: true
 
 **Thesis co-supervisor**: <a href="https://www.linkedin.com/in/ppmathieu?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZVLzx0o9Q%2FKQJlzWJaKseg%3D%3D" target="_blank">Dr. Pierre Philippe Mathieu</a> 
 
-**Age of graduation**: 24 | **Official duration**: 2 years
+**Age of graduation**: 24 
+
+**Official duration**: 2 years
 
 **Final degree mark**: 110/110 cum laude
 
 **Graduation date**: 17/10/2019
 
 
-## Bachelor degree in Electronic Engineering for Automation and Telecommunications</h2>
-### Sep 2014 – Oct 2017, <a href="https://www.unisannio.it/" target="_blank">University of Sannio</a></h3>
+## Bachelor degree in Electronic Engineering for Automation and Telecommunications
+### Sep 2014 – Oct 2017, <a href="https://www.unisannio.it/" target="_blank">University of Sannio</a><
 
 **Specific field of the degree course**: Electronic Engineering for Automation and Telecommunications, L-8 - 1st level degree in Information technology.
 
-**<strong>Thesis title**: Use of the Differential Interferometry on Sentinel images for the land.
+**Thesis title**: Use of the Differential Interferometry on Sentinel images for the land.
         
 **Thesis subject**: Satellite Remote Sensing and Differential Interferometry for the measurements of displacements inducted by earthquakes.
 
@@ -52,7 +54,9 @@ author_profile: true
 
 **Thesis co-supervisor**: <a href="https://www.linkedin.com/in/pia-addabbo-39097843?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bvt8v%2BpgMSBa0hHMDs0cCCg%3D%3D" target="_blank">Prof. Pia Addabbo</a> 
 
-**Age of graduation**: 22 | **Official duration**: 3 years
+**Age of graduation**: 22  
+
+**Official duration**: 3 years
 
 **Final degree mark**: 102/110
 
