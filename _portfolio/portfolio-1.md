@@ -1,6 +1,6 @@
 ---
 title: "GRS 29-Italy 2020 award for the three"
-excerpt: "<br/><img src='/images/grs29_award.png' width="500" height="400">"
+excerpt: "<br/><img src='/images/grs29_award.png'>"
 collection: portfolio
 ---
 
