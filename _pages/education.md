@@ -42,7 +42,7 @@ author_profile: true
 
 
 ## Bachelor degree in Electronic Engineering for Automation and Telecommunications
-### Sep 2014 – Oct 2017, <a href="https://www.unisannio.it/" target="_blank">University of Sannio</a><
+### Sep 2014 – Oct 2017, <a href="https://www.unisannio.it/" target="_blank">University of Sannio</a>
 
 **Specific field of the degree course**: Electronic Engineering for Automation and Telecommunications, L-8 - 1st level degree in Information technology.
 
