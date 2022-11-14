@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+
 ## Earth Observation Engineer
 ### Sep 2019 - Nov 2019, <a href="http://www.titan4.it" target="_blank">Titan4</a>
 
@@ -16,7 +17,7 @@ author_profile: true
             
 
 ## Visiting Researcher
-### Jul 2019, <a href="https://philab.phi.esa.int" target="_blank">ESA, ESRIN, ⏀-lab</a><
+### Jul 2019, <a href="https://philab.phi.esa.int" target="_blank">ESA, ESRIN, ⏀-lab</a>
 
 **Main activities and responsibilities**: Creation of neural networks for earth observation applications. Implementation of scripts for creating satellite image datasets. Monitoring of natural disasters such as landslides and volcanic eruptions. Creation of networks for filtering satellite data. Creation of artificial satellite image datasets. Processing of Sentinel data.
 
