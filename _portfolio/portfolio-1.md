@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "GRS 29-Italy 2020 award for the three"
+excerpt: "<br/><img src='/images/grs29_award.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I have been the winner of the GRS 29-Italy 2020 award for the three best master's degree theses in geosciences and remote sensing, organised by the Geoscience and Remote Sensing Society [GRSS](http://www.grss-ieee.org/) and by the [IEEE Italy Section](http://sites.ieee.org/italy/) [iChapter GRS29 Central-North Italy GRS29-CNI](https://cispio.diet.uniroma1.it/marzano/ieee-grs/index.html) and [GRS29 South Italy GRS29-SI](http://ieee.uniparthenope.it/chapter/default.html).                    

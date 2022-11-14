@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
 {% include base_path %}
 
 
@@ -58,5 +62,6 @@ IET Digital Library. [[bibtex](bibtex/pbte098e.bib), [book](https://digital-libr
 - {: style="text-align: justify" }S. L. Ullo et al., "SAR interferometry with open Sentinel-1 data for environmental measurements: The case of Ischia earthquake," 2018 IEEE International Conference on Environmental Engineering (EE), 2018, pp. 1-8, doi: 10.1109/EE1.2018.8385270. [[bibtex](bibtex/8385270.bib), [paper](https://ieeexplore.ieee.org/abstract/document/8385270)]
 
 - {: style="text-align: justify" } D. Di Martire et al., "X- and C-band SAR data to monitoring ground deformations and slow-moving landslides for the 2016 Manta and Portoviejo earthquake (Manabi, Ecuador)," 2018 IEEE International Conference on Environmental Engineering (EE), 2018, pp. 1-6, doi: 10.1109/EE1.2018.8385258. [[bibtex](bibtex/8385258.bib), [paper](https://ieeexplore.ieee.org/abstract/document/8385270)]
+
 
 
