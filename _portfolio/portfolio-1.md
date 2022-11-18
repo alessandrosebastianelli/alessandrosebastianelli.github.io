@@ -1,5 +1,5 @@
 ---
-title: "GRS 29-Italy 2020 award for the three"
+title: "GRS 29-Italy 2020 award"
 excerpt: ""
 collection: portfolio
 ---
