@@ -6,5 +6,5 @@ collection: portfolio
 
 
 <div id="small, myiframe">
-            <iframe width="560" height="315" src="https://vimeo.com/771675907/a62e4a77f1" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://player.vimeo.com/video/771675907/a62e4a77f1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>            
 </div>
