@@ -38,5 +38,10 @@ var addressPoints = [
     "Kuala Lumpur, Malaysia",
     3.158130,
     101.709090
+  ],
+  [
+    "Frascati, Italy",
+    41.808521,
+    12.676104
   ]
 ];
