@@ -1,5 +1,5 @@
 ---
-title: "Bachelor Thesis Advisor - Luigi Russo"
+title: "Bachelor Thesis Co-Relator - Luigi Russo"
 collection: teaching
 type: "Bachelor Degree in Electronic Engineering for Automation and Telecommunications"
 permalink: /teaching/bachelor-lrusso

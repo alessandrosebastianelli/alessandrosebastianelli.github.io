@@ -1,5 +1,5 @@
 ---
-title: "Bachelor Thesis Advisor - Morena Gismondi"
+title: "Bachelor Thesis Co-Relator - Morena Gismondi"
 collection: teaching
 type: "Bachelor Degree in Electronic Engineering for Automation and Telecommunications"
 permalink: /teaching/bachelor-mgismondi

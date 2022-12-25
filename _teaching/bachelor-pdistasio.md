@@ -1,5 +1,5 @@
 ---
-title: "Bachelor Thesis Advisor - Pietro Di Stasio"
+title: "Bachelor Thesis Co-Relator - Pietro Di Stasio"
 collection: teaching
 type: "Bachelor Degree in Electronic Engineering for Automation and Telecommunications"
 permalink: /teaching/bachelor-pdistasion

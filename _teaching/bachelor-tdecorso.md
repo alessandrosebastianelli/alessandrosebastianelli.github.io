@@ -1,5 +1,5 @@
 ---
-title: "Bachelor Thesis Advisor - Tony De Corso"
+title: "Bachelor Thesis Co-Relator - Tony De Corso"
 collection: teaching
 type: "Bachelor Degree in Electronic Engineering for Automation and Telecommunications"
 permalink: /teaching/bachelor-tdecorso
