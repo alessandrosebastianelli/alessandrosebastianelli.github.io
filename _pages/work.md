@@ -8,6 +8,12 @@ author_profile: true
 {% include base_path %}
 
 
+
+## Research Fellow in Quantum Computing for Earth Observation
+### Oct 2022 - current, <a href="https://philab.esa.int" target="_blank">ESa-$\Phi$-lab</a>
+
+**Main activities and responsibilities**: Research activity on Quantum Machine Learning applied to Remote Sensing data.
+
 ## Earth Observation Engineer
 ### Sep 2019 - Nov 2019, <a href="http://www.titan4.it" target="_blank">Titan4</a>
 
