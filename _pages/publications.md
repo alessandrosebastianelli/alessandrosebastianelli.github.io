@@ -22,6 +22,14 @@ I started co-authoring scientific papers since 2018, during these years I collab
 IET Digital Library. [[bibtex](bibtex/pbte098e.bib), [book](https://digital-library.theiet.org/content/books/te/pbte098e)]
 
 ## Papers
+
+### 2023
+- {: style="text-align: justify" } Sebastianelli, A., Del Rosso, M. P., Ullo, S. L., & Gamba, P. (2023). On Quantum Hyperparameters Selection in Hybrid Classifiers for Earth Observation Data. [[bibtex](), [paper](https://www.techrxiv.org/articles/preprint/On_Quantum_Hyperparameters_Selection_in_Hybrid_Classifiers_for_Earth_Observation_Data/22001828)]
+- {: style="text-align: justify" } Mauro, F., Rich, B., Muriga, V. W., Sebastianelli, A., & Ullo, S. L. (2023). SEN2DWATER: A Novel Multispectral and Multitemporal Dataset and Deep Learning Benchmark for Water Resources Analysis. arXiv preprint arXiv:2301.07452. [[bibtex](), [paper](https://arxiv.org/abs/2301.07452)]
+- {: style="text-align: justify" } Muriga, V. W., Rich, B., Mauro, F., Sebastianelli, A., & Ullo, S. L. (2023). A Machine Learning Approach to Long-Term Drought Prediction using Normalized Difference Indices Computed on a Spatiotemporal Dataset. arXiv preprint arXiv:2302.02440. [[bibtex](), [paper](https://arxiv.org/abs/2302.02440)]
+- {: style="text-align: justify" } Mauro, F., Russo, L., Janku, F., Sebastianelli, A., & Ullo, S. L. (2023). Estimation of Ground NO2 Measurements from Sentinel-5P Tropospheric Data through Categorical Boosting. arXiv preprint arXiv:2304.04069. [[bibtex](), [paper](https://arxiv.org/abs/2304.04069)]
+- {: style="text-align: justify" } Spiller, D., Santin, G., Sebastianelli, A., Lucchini, L., Gallotti, R., Lake, B., ... & Lepri, B. (2023). Analysis of COVID-19 first wave in the US based on demographic, mobility, and environmental variables. arXiv preprint arXiv:2302.14649. [[bibtex](), [paper](https://arxiv.org/abs/2302.14649)]
+
 ### 2022
 - {: style="text-align: justify" } M. P. Del Rosso, A. Sebastianelli, D. Spiller and S. L. Ullo, "A demo setup testing onboard CNNs for Volcanic Eruption  Detection", in IEEE Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE) [[bibtex](), [paper]()]
 
