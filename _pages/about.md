@@ -15,7 +15,7 @@ His research topics mainly focus on remote sensing and satellite data analysis, 
 Currently he works as Research Fellow in Quantum Computing for Earth Observation at the [Φ-lab][Φ-lab], [ESA][ESA].
 
 
-**In my spare time I enjoy photography, visit my [instagram pag][insta] or my [website][photo].**
+**In my spare time I enjoy photography, visit my [instagram page][insta] or my [website][photo].**
 
 [sannio]: https://www.unisannio.it/
 [ESA]: http://www.esa.int/
