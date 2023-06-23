@@ -24,6 +24,7 @@ IET Digital Library. [[bibtex](bibtex/pbte098e.bib), [book](https://digital-libr
 ## Papers
 
 ### 2023
+- {: style="text-align: justify" } Jamila Mifdal, Marc Tomás-Cruz, Alessandro Sebastianelli, Bartomeu Coll, Joan Duran; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023, pp. 2105-2114 . [[bibtex](bibtex/Mifdal_2023_CVPR.bib), [paper](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/html/Tomas-Cruz_Deep_Unfolding_for_Hypersharpening_Using_a_High-Frequency_Injection_Module_CVPRW_2023_paper.html)]
 - {: style="text-align: justify" } Sebastianelli, A., Del Rosso, M. P., Ullo, S. L., & Gamba, P. (2023). On Quantum Hyperparameters Selection in Hybrid Classifiers for Earth Observation Data. [[bibtex](), [paper](https://www.techrxiv.org/articles/preprint/On_Quantum_Hyperparameters_Selection_in_Hybrid_Classifiers_for_Earth_Observation_Data/22001828)]
 - {: style="text-align: justify" } Mauro, F., Rich, B., Muriga, V. W., Sebastianelli, A., & Ullo, S. L. (2023). SEN2DWATER: A Novel Multispectral and Multitemporal Dataset and Deep Learning Benchmark for Water Resources Analysis. arXiv preprint arXiv:2301.07452. [[bibtex](), [paper](https://arxiv.org/abs/2301.07452)]
 - {: style="text-align: justify" } Muriga, V. W., Rich, B., Mauro, F., Sebastianelli, A., & Ullo, S. L. (2023). A Machine Learning Approach to Long-Term Drought Prediction using Normalized Difference Indices Computed on a Spatiotemporal Dataset. arXiv preprint arXiv:2302.02440. [[bibtex](), [paper](https://arxiv.org/abs/2302.02440)]
