@@ -17,7 +17,11 @@ author_profile: true
 **Thesis advisor**: <a href="https://www.linkedin.com/in/silvia-liberata-ullo-67280717?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpAKXHltyQZaocDDOZLeUtg%3D%3D" target="_blank">Prof. Silvia L. Ullo</a> 
 
 **Thesis co-advisor** <a href="https://www.linkedin.com/in/ppmathieu?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZVLzx0o9Q%2FKQJlzWJaKseg%3D%3D" target="_blank">Dr. Pierre Philippe Mathieu</a> 
-            
+
+**Age of graduation**: 27 
+
+**Official duration**: 3 years
+
         
 ## Master degree in Electronic Engineering for Automation and Telecommunications
 ### Sep 2017 – Oct 2019, <a href="https://www.unisannio.it/" target="_blank">University of Sannio</a>
