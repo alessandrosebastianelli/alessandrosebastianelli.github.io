@@ -17,7 +17,7 @@ Currently he works as Research Fellow in Quantum Computing for Earth Observation
 
 In my spare time I enjoy photography, visit my [instagram page][insta] or my [website][photo].
 
-**News: [awesome-QC4EO](aqc4eo) is now out**
+**News: [awesome-QC4EO][aqc4eo] is now out**
 
 
 
@@ -28,4 +28,4 @@ In my spare time I enjoy photography, visit my [instagram page][insta] or my [we
 [Φ-lab]: https://philab.phi.esa.int/
 [photo]: https://alessandrosebastianelli.github.io/photography/index.html
 [insta]: https://www.instagram.com/a.sebastianelli_photographer/
-[aqc4eo]: https://alessandrosebastianelli.github.io/awesome-QC4EO/
+[aqc4eo]: https://alessandrosebastianelli.github.io/awesome-QC4EO
