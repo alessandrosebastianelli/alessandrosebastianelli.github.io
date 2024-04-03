@@ -15,7 +15,12 @@ His research topics mainly focus on remote sensing and satellite data analysis, 
 Currently he works as Research Fellow in Quantum Computing for Earth Observation at the [Φ-lab][Φ-lab], [ESA][ESA].
 
 
-**In my spare time I enjoy photography, visit my [instagram page][insta] or my [website][photo].**
+In my spare time I enjoy photography, visit my [instagram page][insta] or my [website][photo].
+
+**News: [awesome-QC4EO](aqc4eo) is now out**
+
+
+
 
 [sannio]: https://www.unisannio.it/
 [ESA]: http://www.esa.int/
@@ -23,3 +28,4 @@ Currently he works as Research Fellow in Quantum Computing for Earth Observation
 [Φ-lab]: https://philab.phi.esa.int/
 [photo]: https://alessandrosebastianelli.github.io/photography/index.html
 [insta]: https://www.instagram.com/a.sebastianelli_photographer/
+[aqc4eo]: https://alessandrosebastianelli.github.io/awesome-QC4EO/
