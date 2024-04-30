@@ -52,5 +52,9 @@ var addressPoints = [
   ["Strasbourg, France",
     48.522604,
     7.737343
+  ],
+  ["Pavia, italy",
+    45.184725,
+    9.158207
   ]
 ];
