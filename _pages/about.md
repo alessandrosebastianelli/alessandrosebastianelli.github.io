@@ -18,7 +18,7 @@ In my spare time I enjoy photography, visit my [instagram page][insta] or my [we
 
 **News: [awesome-QC4EO][aqc4eo] is now out**
 
-Download my full ![Curriculum Vitae here](/images/cv_asebastianelli.pdf).
+Download my full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 
 
 [sannio]: https://www.unisannio.it/
