@@ -23,6 +23,13 @@ IET Digital Library. [[bibtex](bibtex/pbte098e.bib), [book](https://digital-libr
 
 ## Papers
 
+### 2024
+- {: style="text-align: justify" } Russo, L., Mauro, F., Memar, B., Sebastianelli, A., Gamba, P., & Ullo, S. L. (2024). Using Multi-Temporal Sentinel-1 and Sentinel-2 data for water bodies mapping. Accepted in IGARS2024. arXiv preprint arXiv:2402.00023. [[bibtex](bibtex/russo2024using.bib), [paper](https://arxiv.org/abs/2402.00023)]
+- {: style="text-align: justify" } Mauro, F., Sebastianelli, A., Saux, B. L., Gamba, P., & Ullo, S. L. (2024). A Hybrid MLP-Quantum approach in Graph Convolutional Neural Networks for Oceanic Nino Index (ONI) prediction. Accepted in IGARS2024. arXiv preprint arXiv:2401.16049. [[bibtex](bibtex/mauro2024hybrid.bib), [paper](https://arxiv.org/abs/2401.16049)]
+- {: style="text-align: justify" } Mauro, F., Sebastianelli, A., Del Rosso, M. P., Gamba, P., & Ullo, S. L. (2024). QSpeckleFilter: a Quantum Machine Learning approach for SAR speckle filtering. Accepted in IGARS2024. arXiv preprint arXiv:2402.01235. [[bibtex](bibtex/mauro2024qspecklefilter.bib), [paper](https://arxiv.org/abs/2402.01235)]
+- {: style="text-align: justify" } Sebastianelli, A., Spiller, D., Carmo, R., Wheeler, J., Nowakowski, A., Jacobson, L. V., ... & Schneider, R. (2024). A reproducible ensemble machine learning approach to forecast dengue outbreaks. Scientific Reports, 14(1), 3807. [[bibtex](bibtex/sebastianelli2024reproducible.bib), [paper](https://www.nature.com/articles/s41598-024-52796-9)]
+- {: style="text-align: justify" } De Falco, F., Ceschini, A., Sebastianelli, A., Saux, B. L., & Panella, M. (2024). Towards Efficient Quantum Hybrid Diffusion Models. arXiv preprint arXiv:2402.16147. [[bibtex](bibtex/de2024towards.bib), [paper](https://arxiv.org/abs/2402.16147)]
+
 ### 2023
 - {: style="text-align: justify" } Jamila Mifdal, Marc Tomás-Cruz, Alessandro Sebastianelli, Bartomeu Coll, Joan Duran; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023, pp. 2105-2114 . [[bibtex](bibtex/Mifdal_2023_CVPR.bib), [paper](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/html/Tomas-Cruz_Deep_Unfolding_for_Hypersharpening_Using_a_High-Frequency_Injection_Module_CVPRW_2023_paper.html)]
 - {: style="text-align: justify" } Sebastianelli, A., Del Rosso, M. P., Ullo, S. L., & Gamba, P. (2023). On Quantum Hyperparameters Selection in Hybrid Classifiers for Earth Observation Data. [[bibtex](), [paper](https://www.techrxiv.org/articles/preprint/On_Quantum_Hyperparameters_Selection_in_Hybrid_Classifiers_for_Earth_Observation_Data/22001828)]
