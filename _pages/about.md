@@ -16,9 +16,16 @@ Currently he works as Research Fellow in Quantum Computing for Earth Observation
 
 In my spare time I enjoy photography, visit my [instagram page][insta] or my [website][photo].
 
-**News: [awesome-QC4EO][aqc4eo] is now out**
+
 
 Download my full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
+
+## News 
+
+- [8 may 2024] [quantum computing for earth observation slides][qc4eo-slides] are now out
+- [3 apr 2024] [awesome-QC4EO][aqc4eo] is now out
+
+
 
 
 [sannio]: https://www.unisannio.it/
@@ -28,3 +35,4 @@ Download my full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 [photo]: https://alessandrosebastianelli.github.io/photography/index.html
 [insta]: https://www.instagram.com/a.sebastianelli_photographer/
 [aqc4eo]: https://alessandrosebastianelli.github.io/awesome-QC4EO
+[qc4eo-slides]: https://alessandrosebastianelli.github.io/qc4eo-slides/#/overview
