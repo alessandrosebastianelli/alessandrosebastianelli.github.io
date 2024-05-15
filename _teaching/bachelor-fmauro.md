@@ -8,9 +8,9 @@ date: 2020-10-18
 location: "Benevento, Italy"
 ---
 
-# Analysis of the correlation between Sentinel-5P data and epidemiological data. Case study: spread of Covid-19 in the Lombardy region
+## Analysis of the correlation between Sentinel-5P data and epidemiological data. Case study: spread of Covid-19 in the Lombardy region
 
-## Abstract
+### Abstract
 
 The epidemic of what is commonly called "Coronavirus" broke out last December in China, in the province of Hubei. It is thought that the epicenter was the Wuhan market and that from there the virus spread to the rest of China, neighboring countries and around the world. Each pandemic represents a threat to health and a challenge for the countries that must contain it. The virus moves faster than people and in order to limit the damage it takes great efforts. While it is true that strong measures are needed, at the same time these measures must be taken at the right time. We have learned that in the event of a Covid pandemic, certain behaviors and needs such as meetings, mobility, sharing of workspaces, etc. they can heavily affect the number of infected people. In order to reduce the catastrophic effects related to the virus, last March all the countries took action with post-hoc interventions, based on the number of infected and dead, through several consecutive blocking attempts, each time more restrictive, but not always effective. .
 
