@@ -1,8 +1,8 @@
 ---
 title: "Bachelor Thesis Co-Relator - Luigi Russo"
-collection: teaching
+collection: teachingbachelor
 type: "Bachelor Degree in Electronic Engineering for Automation and Telecommunications"
-permalink: /teaching/bachelor-lrusso
+permalink: /teachingbachelor/bachelor-lrusso
 venue: "University of Sannio, Engineering Department"
 date: 2021-10-18
 location: "Benevento, Italy"

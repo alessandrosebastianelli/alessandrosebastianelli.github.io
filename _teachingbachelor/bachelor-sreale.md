@@ -1,8 +1,8 @@
 ---
 title: "Bachelor Thesis Co-Relator - Simona Reale"
-collection: teaching
+collection: teachingbachelor
 type: "Bachelor Degree in Electronic Engineering for Automation and Telecommunications"
-permalink: /teaching/bachelor-sreale
+permalink: /teachingbachelor/bachelor-sreale
 venue: "University of Sannio, Engineering Department"
 date: 2021-10-18
 location: "Benevento, Italy"

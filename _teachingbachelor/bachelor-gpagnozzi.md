@@ -1,8 +1,8 @@
 ---
 title: "Bachelor Thesis Co-Relator - Giovanni Pagnozzi"
-collection: teaching
+collection: teachingbachelor
 type: "Bachelor Degree in Electronic Engineering for Automation and Telecommunications"
-permalink: /teaching/bachelor-gpagnozzi
+permalink: /teachingbachelor/bachelor-gpagnozzi
 venue: "University of Sannio, Engineering Department"
 date: 2022-10-18
 location: "Benevento, Italy"

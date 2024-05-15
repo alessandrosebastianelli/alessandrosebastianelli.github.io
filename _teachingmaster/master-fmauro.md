@@ -2,7 +2,7 @@
 title: "Master Thesis Co-Relator - Francesco Mauro"
 collection: teaching
 type: "Master Degree in Electronic Engineering for Automation and Telecommunications"
-permalink: /teaching/master-fmauro
+permalink: /teachingmaster/master-fmauro
 venue: "University of Sannio, Engineering Department"
 date: 2022-10-18
 location: "Benevento, Italy"

@@ -1,8 +1,8 @@
 ---
 title: "Bachelor Thesis Co-Relator - Tony De Corso"
-collection: teaching
+collection: teachingbachelor
 type: "Bachelor Degree in Electronic Engineering for Automation and Telecommunications"
-permalink: /teaching/bachelor-tdecorso
+permalink: /teachingbachelor/bachelor-tdecorso
 venue: "University of Sannio, Engineering Department"
 date: 2020-10-18
 location: "Benevento, Italy"
