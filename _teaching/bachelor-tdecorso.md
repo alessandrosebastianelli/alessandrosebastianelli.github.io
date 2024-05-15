@@ -8,9 +8,9 @@ date: 2020-10-18
 location: "Benevento, Italy"
 ---
 
-# Application of DInSAR technique to high coherence satellite images for strategic infrastructure monitoring: Morandi Bridge
+**Thesis title**:  Application of DInSAR technique to high coherence satellite images for strategic infrastructure monitoring: Morandi Bridge
 
-## Abstract
+### Abstract
 Infrastructures are a fundamental component of our society in many ways. It is important to have the capability to collect data about their status and their change in time and this is the purpose of the Structural Health Monitoring (SHM) process.
 
 Structural Health Monitoring may alleviate the increasing age of our existing infrastructure, which makes the cost of maintenance and repairs a growing concern,  by replacing scheduled maintenance with as-needed maintenance. Thus saving the cost of unnecessary maintenance, on one hand, and reducing  unscheduled maintenance, on the other hand.

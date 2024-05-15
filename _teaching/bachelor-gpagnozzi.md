@@ -8,9 +8,9 @@ date: 2022-10-18
 location: "Benevento, Italy"
 ---
 
-# Analysis of large strategic structures using the PyGMTSAR tool on Sentinel-1 data
+**Thesis title**: Analysis of large strategic structures using the PyGMTSAR tool on Sentinel-1 data
 
-## Abstract
+### Abstract
 Geo-hazards include geological and natural aspects, such as earthquakes, landslides, subsidence, and tsunamis, which can cause devastating effects on populations, their territories, and their economies. This process in its entirety can affect, in the long or short term, the affected territories in a significant way, at local and regional level. Understanding the evolution of each phenomenon can be an important first step in risk mitigation, such as in the case of slow landslides or subsidence, or in the case of sudden catastrophic events, such as the collapse of the dam structure, the consequences of which are catastrophic. .
 
 With reference to this last example, traditionally the monitoring of a dam is carried out by keeping under control the surface displacements, measured with geodetic techniques [collimation, high precision leveling and Global Positioning System (GPS)]. The main drawback of traditional surveys is represented by the reduced number of monitoring stations, which cannot ensure the desired spatial density in the required information, unless a long data processing is activated with prohibitive operating costs. It should be emphasized that changes in a dam are slow and appreciable (if any) only over long periods, from months to decades. This means that monitoring through traditional instrumentation can only be performed through the collection of an enormous amount of data, which must be suitably treated to extract useful information over time.

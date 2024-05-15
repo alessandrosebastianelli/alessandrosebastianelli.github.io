@@ -8,9 +8,9 @@ date: 2021-10-18
 location: "Benevento, Italy"
 ---
 
-# Development of a Machine Learning model based on the "categorical boosting" technique for the correlation between tropospheric NO2 and NO2 on the ground
+**Thesis title**: Development of a Machine Learning model based on the "categorical boosting" technique for the correlation between tropospheric NO2 and NO2 on the ground
 
-## Abstract
+### Abstract
 Earth observation is based on the application of the principles of remote sensing to the monitoring of the earth's surface, air and sea, mainly for scientific and environmental applications. Remote sensing generally refers to the detection and measurement of characters and quantities conducted from afar by means of sensors, generally located on aerial or space platforms. But this is a very modern definition.
 
 Initially everyone's thought, especially in times of war, was to be able to see “over” the hill. It is precisely for this reason that at the beginning the goal of the pioneers of remote sensing was to give their armies the opportunity to spy on the enemy, to know his weapons, to anticipate his moves.

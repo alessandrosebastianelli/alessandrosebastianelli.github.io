@@ -8,9 +8,9 @@ date: 2020-10-18
 location: "Benevento, Italy"
 ---
 
-# Use of differential interferometry on Sentinel-1 images for the measurement of earthquake-induced ground displacements.
+**Thesis title**: Use of differential interferometry on Sentinel-1 images for the measurement of earthquake-induced ground displacements.
 
-## Abstract
+### Abstract
 
 One of the most feared and destructive natural catastrophes ever are earthquakes, due to the terrible consequences in terms of devastation of entire territories and the sacrifice of human lives.
 For this reason it is particularly important to develop innovative techniques, not only in the prediction of future earthquakes, but also in the prevention and detection of damage caused by an earthquake.

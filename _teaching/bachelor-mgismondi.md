@@ -8,9 +8,9 @@ date: 2020-10-18
 location: "Benevento, Italy"
 ---
 
-# Use of Sentinel-5P data for the analysis of the correlation between NO2 levels and mobility data in areas with a high number of infections due to Covid-19. Case study: Lombardy Region.
+**Thesis title**:  Use of Sentinel-5P data for the analysis of the correlation between NO2 levels and mobility data in areas with a high number of infections due to Covid-19. Case study: Lombardy Region.
 
-## Abstract
+### Abstract
 2020, for our country, but above all on a global level, represented a year that will go down in history; this is because humanity has found itself facing something new, unknown.
 
 It is specifically a virus belonging to the Coronavirus family, called Coronavirus SARS-CoV-2 or more commonly known as COVID-19; virus certainly different from simple flu, with a very high degree of virulence, capable of significantly affecting the infected subject at the pulmonary level with serious repercussions for the organism as a whole and that in the worst case, often in patients suffering from secondary diseases, it can be completely deleterious and therefore cause death.

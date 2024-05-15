@@ -8,9 +8,9 @@ date: 2022-10-18
 location: "Benevento, Italy"
 ---
 
-# Use of Sentinel-5P data for the early detection of volcanic eruptions through on-board Artificial Intelligence
+**Thesis title**:  Use of Sentinel-5P data for the early detection of volcanic eruptions through on-board Artificial Intelligence
 
-## Abstract
+### Abstract
 Over the last few years, Artificial Intelligence (AI) has made it possible to achieve increasingly important goals, especially thanks to technological development. Moreover, from the point of view of research it is one of the most active sectors, which thanks to the enormous amount of applications available, allows you to manage problems that until recently seemed impossible.
 
 Among the pioneers of the use of AI algorithms applied to cases of interest we must necessarily mention the European Space Agency (ESA). The enormous availability of data collected through satellite missions and the intuition to focus on research and cutting-edge topics have led ESA to always be in the most important and strategic positions, playing impactful roles in many areas of interest.

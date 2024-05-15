@@ -8,9 +8,9 @@ date: 2022-10-18
 location: "Benevento, Italy"
 ---
 
-# Climate Change Impact Evaluation on levels of water resources through deep learning techniques
+**Thesis title**: Climate Change Impact Evaluation on levels of water resources through deep learning techniques
 
-## Abstract
+### Abstract
 This thesis work aims to investigate the impact of climate change on the water basins, pursuing the goal of helping Decision Makers understand the extent and possible direction of adopting the right measures.
 
 In order to build a system, based on Machine Learning, to support the fight against climate change, the first step is to have a good dataset on which to run statistical analysis and to adopt the chosen methodology. In particular, to recognize temporal changes in water basins, it is necessary to have a dataset with multitemporal acquisitions. Therefore, the first part of my thesis work has focused on creating the suitable dataset. 

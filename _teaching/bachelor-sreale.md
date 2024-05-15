@@ -8,9 +8,9 @@ date: 2021-10-18
 location: "Benevento, Italy"
 ---
 
-# Performance analysis of a new splitting method for datasets in machine learning models. Case study: detection of volcanic eruptions
+**Thesis title**: Performance analysis of a new splitting method for datasets in machine learning models. Case study: detection of volcanic eruptions
 
-## Abstract
+### Abstract
 Remote sensing is a technique based on the collection of data, to obtain information from objects, without there being direct contact with the object in question.
 
 In remote sensing by means of sensors, it is possible to acquire information that the human eye is normally unable to pick up (through radiation with different frequencies, even outside the visible band). In remote sensing there are three essential elements: a platform on which the instrument containing the sensor will be mounted, the object to be observed, the instrument containing the sensor by means of which the object of interest is observed.
