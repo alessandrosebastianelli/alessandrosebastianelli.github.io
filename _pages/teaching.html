@@ -5,18 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-
-
-<h2>Master' students</h2>
-
 {% include base_path %}
-{% for post in site.teaching.master reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<h2>Bachelor' students</h2>
-
-{% include base_path %}
-{% for post in site.teaching.bachelor reversed %}
+{% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
