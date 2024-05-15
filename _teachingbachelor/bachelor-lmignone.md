@@ -1,6 +1,6 @@
 ---
 title: "Bachelor Thesis Advisor - Luca Mignone"
-collection: teachingbachelor
+collection: teaching
 type: "Bachelor Degree in Electronic Engineering for Automation and Telecommunications"
 permalink: /teachingbachelor/bachelor-lmignone
 venue: "University of Sannio, Engineering Department"

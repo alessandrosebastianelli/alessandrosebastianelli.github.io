@@ -1,6 +1,6 @@
 ---
 title: "Bachelor Thesis Co-Relator - Pietro Di Stasio"
-collection: teachingbachelor
+collection: teaching
 type: "Bachelor Degree in Electronic Engineering for Automation and Telecommunications"
 permalink: /teachingbachelor/bachelor-pdistasion
 venue: "University of Sannio, Engineering Department"

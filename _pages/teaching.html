@@ -5,27 +5,28 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+
 
 <h2>Researchers</h2>
+{% include base_path %}
 {% for post in site.teachingres reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 <h2>Ph.D. students</h2>
-
+{% include base_path %}
 {% for post in site.teachingphd reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 <h2>Master' students</h2>
-
+{% include base_path %}
 {% for post in site.teachingmaster reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 <h2>Bachelor' students</h2>
-
+{% include base_path %}
 {% for post in site.teachingbachelor reversed %}
   {% include archive-single.html %}
 {% endfor %}
