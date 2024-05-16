@@ -8,6 +8,6 @@ date: 2023-10-23
 location: "Rome, Italy"
 ---
 
-**Thesis title**: 
+**Thesis title**: Quantum Hybrid Diffusion Models
 
 MSc from La Sapienza DIET co-supervised with Massimo Panella, Andrea Ceschini and Bertrand Le Saux.
