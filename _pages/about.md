@@ -29,7 +29,7 @@ Download my full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 <details>
   <summary>Old news</summary>
   
-  <a href="https://github.com/alessandrosebastianelli/AI4EO" target="_blank" > - [2 sep 2022] artificial intelligence for earth observation (mini-course) is now out</a>
+  - [2 sep 2022] <a href="https://github.com/alessandrosebastianelli/AI4EO" target="_blank" >artificial intelligence for earth observation (mini-course)</a> is now out
   
 </details>
 
