@@ -16,8 +16,6 @@ Currently he works as Research Fellow in Quantum Computing for Earth Observation
 
 In my spare time I enjoy photography, visit my [instagram page][insta] or my [website][photo].
 
-
-
 Download my full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 
 ## News 
@@ -32,6 +30,14 @@ Download my full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
   - [2 sep 2022] <a href="https://github.com/alessandrosebastianelli/AI4EO" target="_blank" >artificial intelligence for earth observation (mini-course)</a> is now out
   
 </details>
+
+
+## My python libraries
+
+- [hqm](https://alessandrosebastianelli.github.io/hybrid_quantum_models/hqm.html) (hybrid quantum models integration for torch and keras)
+- [opensv](https://alessandrosebastianelli.github.io/opensv/pyosv.html) (open satellite vision, containing functions to work with EO data)
+- [bplot](https://alessandrosebastianelli.github.io/bplot/bplot.html) (quick way to plot and show data)
+- [LaTeX utils](https://alessandrosebastianelli.github.io/latex-utils/pytexutils.html) (creating LaTeX code automatically from python)
 
 [sannio]: https://www.unisannio.it/
 [ESA]: http://www.esa.int/
