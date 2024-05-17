@@ -35,10 +35,10 @@ Download my full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 
 ## My python libraries
 
-- [hqm](https://alessandrosebastianelli.github.io/hybrid_quantum_models/hqm.html) (hybrid quantum models integration for torch and keras)
-- [opensv](https://alessandrosebastianelli.github.io/opensv/pyosv.html) (open satellite vision, containing functions to work with EO data)
-- [bplot](https://alessandrosebastianelli.github.io/bplot/bplot.html) (quick way to plot and show data)
-- [LaTeX utils](https://alessandrosebastianelli.github.io/latex-utils/pytexutils.html) (creating LaTeX code automatically from python)
+- [hqm](https://alessandrosebastianelli.github.io/hybrid_quantum_models/hqm.html) - hybrid quantum models integration for torch and keras
+- [opensv](https://alessandrosebastianelli.github.io/opensv/pyosv.html) - open satellite vision, containing functions to work with EO data
+- [bplot](https://alessandrosebastianelli.github.io/bplot/bplot.html) - quick way to plot and show data
+- [LaTeX utils](https://alessandrosebastianelli.github.io/latex-utils/pytexutils.html) - creating LaTeX code automatically from python
 
 [sannio]: https://www.unisannio.it/
 [ESA]: http://www.esa.int/
