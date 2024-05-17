@@ -31,7 +31,6 @@ Download my full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
   * [2 sep 2022] <a href="https://github.com/alessandrosebastianelli/AI4EO" target="_blank" >artificial intelligence for earth observation (mini-course)</a> is now out
 </details>
 
-
 ## My python libraries
 
 - [hqm](https://alessandrosebastianelli.github.io/hybrid_quantum_models/hqm.html) - hybrid quantum models integration for torch and keras
