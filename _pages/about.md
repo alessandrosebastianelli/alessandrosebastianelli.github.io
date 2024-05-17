@@ -29,12 +29,10 @@ Download my full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 <details>
   <summary>Old news</summary>
   
-  - [2 sep 2022] [artificial intelligence for earth observation (mini-course)][air4eo] is now out
-
+  <a href="https://github.com/alessandrosebastianelli/AI4EO" target="_blank" > - [2 sep 2022] artificial intelligence for earth observation (mini-course) is now out</a>
+  
 </details>
 
-
-[ai4eo]: https://github.com/alessandrosebastianelli/AI4EO
 [sannio]: https://www.unisannio.it/
 [ESA]: http://www.esa.int/
 [ESRIN]: http://www.esa.int/About_Us/ESRIN/
