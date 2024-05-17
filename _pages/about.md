@@ -26,9 +26,13 @@ Download my full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 - [3 may 2024] [irradianceai][irrai] is now out
 - [3 apr 2024] [awesome-QC4EO][aqc4eo] is now out
 
+<details>
+  <summary>Old news</summary>
+  - [2 sep 2022] [artificial intelligence for earth observation (mini-course)][air4eo] is now out
+</details>
 
 
-
+[ai4eo]: https://github.com/alessandrosebastianelli/AI4EO
 [sannio]: https://www.unisannio.it/
 [ESA]: http://www.esa.int/
 [ESRIN]: http://www.esa.int/About_Us/ESRIN/
