@@ -28,7 +28,9 @@ Download my full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 
 <details>
   <summary>Old news</summary>
+  
   - [2 sep 2022] [artificial intelligence for earth observation (mini-course)][air4eo] is now out
+
 </details>
 
 
