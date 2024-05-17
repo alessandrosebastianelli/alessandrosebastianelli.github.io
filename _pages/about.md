@@ -31,7 +31,7 @@ Download my full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 
 [sannio]: https://www.unisannio.it/
 [ESA]: http://www.esa.int/
-[ESRIN]: http://www.esa.int/About_Us/ESRIN
+[ESRIN]: http://www.esa.int/About_Us/ESRIN/
 [Φ-lab]: https://philab.phi.esa.int/
 [photo]: https://alessandrosebastianelli.github.io/photography/index.html
 [insta]: https://www.instagram.com/a.sebastianelli_photographer/
