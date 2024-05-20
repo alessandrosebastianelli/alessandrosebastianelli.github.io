@@ -3,7 +3,7 @@ title: "TO - Artur Miroszewski"
 collection: teaching
 type: "Researcher (Adiunkt) w Uniwersytet Jagielloński"
 permalink: /teachingmaster/to-amiroszewski
-venue: ""
+venue: "Uniwersytet Jagielloński"
 date: 2024-05-16
 location: "Warsaw, Poland"
 ---
