@@ -53,8 +53,12 @@ var addressPoints = [
     48.522604,
     7.737343
   ],
-  ["Pavia, italy",
+  ["Pavia, Italy",
     45.184725,
     9.158207
+  ],
+  ["Pavia, Italy",
+    37.981297, 
+    23.726237
   ]
 ];
