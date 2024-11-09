@@ -60,5 +60,9 @@ var addressPoints = [
   ["Bari, Italy",
     41.119223, 
     16.867231
+  ],
+  ["Hamburg, Germany",
+    53.551086, 
+    9.993682
   ]
 ];
