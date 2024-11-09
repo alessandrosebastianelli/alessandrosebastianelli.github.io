@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Alessandro Sebastianelli (Student Member, IEEE) received the degree (cum laude) in electronic engineering for automation and telecommunications from the [University of Sannio][sannio], Benevento, Italy, in 2019, where he also pursed the Ph.D. degree in Information Technologies for Engineering. 
+Alessandro Sebastianelli received the degree (cum laude) in electronic engineering for automation and telecommunications from the [University of Sannio][sannio], Benevento, Italy, in 2019, where he also pursed the Ph.D. degree in Information Technologies for Engineering. 
 
-His research topics mainly focus on remote sensing and satellite data analysis, artificial intelligence (AI) techniques for Earth observation, data fusion and quantum machine learning. He has coauthored several articles to reputed journals and conferences for the sector of remote sensing. Ha has been a Visited Researcher with [Φ-lab][Φ-lab], European Space Agency [ESA][ESA]/European Space Research Institute [ESRIN](ESRIN), Frascati, Italy, and still collaborates with. He has won an ESA OSIP proposal in August 2020. He received an IEEE award for one the best the thesis in geoscience and remote sensing.
+His research topics mainly focus on remote sensing and satellite data analysis, artificial intelligence (AI) techniques for Earth observation, data fusion and quantum machine learning. He has coauthored several articles to reputed journals and conferences for the sector of remote sensing. Ha has been a Visiting Researcher with [Φ-lab][Φ-lab], European Space Agency [ESA][ESA]/European Space Research Institute [ESRIN](ESRIN). He has won an ESA OSIP proposal in August 2020. He received an IEEE award for one the best the thesis in geoscience and remote sensing.
 
 Currently he works as Research Fellow in Quantum Computing for Earth Observation at the [ESA][ESA] [Φ-lab][Φ-lab].
 
-In my spare time I enjoy photography, visit my [instagram page][insta] or my [photographer portfolio][photo].
+In his spare time he enjoys photography [instagram page][insta]/[photographer portfolio][photo].
 
-Download my full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
+Download his full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 
 ## News 
 
@@ -31,7 +31,7 @@ Download my full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
   * [2 sep 2022] <a href="https://github.com/alessandrosebastianelli/AI4EO" target="_blank" >artificial intelligence for earth observation (mini-course)</a> is now out
 </details>
 
-## My python libraries
+## Alessandro's python libraries
 
 - [hqm](https://alessandrosebastianelli.github.io/hybrid_quantum_models/hqm.html) - hybrid quantum models integration for torch and keras
 - [opensv](https://alessandrosebastianelli.github.io/opensv/pyosv.html) - open satellite vision, containing functions to work with EO data
