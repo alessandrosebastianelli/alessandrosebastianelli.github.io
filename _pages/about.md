@@ -27,14 +27,14 @@ Download his full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 - [22 aug 2023] <a href="https://github.com/alessandrosebastianelli/QML4EO-tutorial" target="_blank">tutorial on hybrid quantum classifier</a> is now out
 - [2 sep 2022] <a href="https://github.com/alessandrosebastianelli/AI4EO" target="_blank" >artificial intelligence for earth observation (mini-course)
 
-<!-->
+<!--
 <details>
   <summary>Old news</summary>
   * [22 aug 2023] <a href="https://github.com/alessandrosebastianelli/QML4EO-tutorial" target="_blank">tutorial on hybrid quantum classifier</a> is now out
   <br>
   * [2 sep 2022] <a href="https://github.com/alessandrosebastianelli/AI4EO" target="_blank" >artificial intelligence for earth observation (mini-course)</a> is now out
 </details>
-<!-->
+-->
 
 ## Alessandro's python libraries
 
