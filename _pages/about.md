@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Alessandro Sebastianelli received the degree (cum laude) in electronic engineering for automation and telecommunications from the [University of Sannio][sannio], Benevento, Italy, in 2019, where he also pursed the Ph.D. degree in Information Technologies for Engineering. 
+Alessandro Sebastianelli received the degree (cum laude) in electronic engineering for automation and telecommunications from the [University of Sannio][sannio] where he also pursed the Ph.D. degree in Information Technologies for Engineering. 
 
-His research topics mainly focus on remote sensing and satellite data analysis, artificial intelligence (AI) techniques for Earth observation, data fusion and quantum machine learning. He has coauthored several articles to reputed journals and conferences for the sector of remote sensing. Ha has been a Visiting Researcher with [Φ-lab][Φ-lab], European Space Agency [ESA][ESA]/European Space Research Institute [ESRIN](ESRIN). He has won an ESA OSIP proposal in August 2020. He received an IEEE award for one the best the thesis in geoscience and remote sensing.
+His field of expertise covers remote sensing and satellite data analysis, artificial intelligence for earth observation and quantum computing. He coauthored a book and several articles to reputed journals and conferences for the sector of remote sensing. He received an IEEE award for one the best the thesis in geoscience and remote sensing. 
 
-Currently he works as Research Fellow in Quantum Computing for Earth Observation at the [ESA][ESA] [Φ-lab][Φ-lab].
+He has been firstly a visiting researcher and later a research fellow at [ESA](ESRIN) [Φ-lab][Φ-lab]. He has won an ESA OSIP proposal in August 2020.
+He is leading the working group on quantum computing for EO in the QUEST IEEE GRSSS technical committee.
 
 In his spare time he enjoys photography [instagram page][insta]/[photographer portfolio][photo].
 
