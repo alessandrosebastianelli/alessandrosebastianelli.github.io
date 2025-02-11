@@ -21,11 +21,11 @@ Download his full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 
 ## News 
 
-- [8 may 2024] [quantum computing for earth observation slides][qc4eo-slides] are now out
-- [3 may 2024] [irradianceai][irrai] is now out
-- [3 apr 2024] [awesome-QC4EO][aqc4eo] is now out
-- [22 aug 2023] <a href="https://github.com/alessandrosebastianelli/QML4EO-tutorial" target="_blank">tutorial on hybrid quantum classifier</a> is now out
-- [2 sep 2022] <a href="https://github.com/alessandrosebastianelli/AI4EO" target="_blank" >artificial intelligence for earth observation (mini-course)
+- [8  may 2024] [quantum computing for earth observation slides][qc4eo-slides] are now out
+- [3  may 2024] [irradianceai][irrai] is now out
+- [3  apr 2024] [awesome-QC4EO][aqc4eo] is now out
+- [22 aug 2023] [tutorial on hybrid quantum classifier][tutorial-qml4eo] is now out
+- [2  sep 2022] [artificial intelligence for earth observation (mini-course)][ai4eo-course]
 
 <!--
 <details>
@@ -54,3 +54,5 @@ Download his full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 [irrai]: https://irradianceai.github.io/
 [grss]: https://www.grss-ieee.org/
 [quest]: https://www.grss-ieee.org/technical-committees/quantum-earth-science-and-technology-quest/
+[tutorial-qml4eo]: https://github.com/alessandrosebastianelli/QML4EO-tutorial
+[ai4eo-course]: https://github.com/alessandrosebastianelli/AI4EO
