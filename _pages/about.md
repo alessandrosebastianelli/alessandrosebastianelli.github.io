@@ -36,7 +36,7 @@ Download his full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 </details>
 -->
 
-## Alessandro's python libraries
+## Self-developed python libraries
 
 - [hqm](https://alessandrosebastianelli.github.io/hqm/hqm.html) - hybrid quantum models integration for torch and keras
 - [opensv](https://alessandrosebastianelli.github.io/opensv/pyosv.html) - open satellite vision, containing functions to work with EO data
