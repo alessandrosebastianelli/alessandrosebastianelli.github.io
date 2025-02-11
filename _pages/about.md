@@ -13,7 +13,7 @@ Alessandro Sebastianelli received the degree (cum laude) in electronic engineeri
 His field of expertise covers remote sensing and satellite data analysis, artificial intelligence for earth observation and quantum computing. He coauthored a book and several articles to reputed journals and conferences for the sector of remote sensing. He received an IEEE award for one the best the thesis in geoscience and remote sensing. 
 
 He has been firstly a visiting researcher and later a research fellow at [ESA](ESRIN) [Φ-lab][Φ-lab]. He has won an ESA OSIP proposal in August 2020.
-He is leading the working group on quantum computing for EO in the QUEST IEEE GRSSS technical committee.
+He is leading the working group on quantum computing for EO in the [QUEST][quest] [IEEE GRSSS][grss] technical committee.
 
 In his spare time he enjoys photography [instagram page][insta]/[photographer portfolio][photo].
 
@@ -52,3 +52,5 @@ Download his full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 [aqc4eo]: https://alessandrosebastianelli.github.io/awesome-QC4EO
 [qc4eo-slides]: https://alessandrosebastianelli.github.io/qc4eo-slides/#/overview
 [irrai]: https://irradianceai.github.io/
+[grss]: https://www.grss-ieee.org/
+[quest]: https://www.grss-ieee.org/technical-committees/quantum-earth-science-and-technology-quest/
