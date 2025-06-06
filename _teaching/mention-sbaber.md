@@ -12,4 +12,4 @@ location: "Boston, USA"
 
 [https://dspace.mit.edu/handle/1721.1/139474]()
 
-*The following people have also helped me with their expertise: Eric Magliarditi, Matthew Moraguez, Nicole Stockley, Timothy Wynne, Sherrie Wang, Silvia Ullo, Andrea Radius, **Alessandro Sebastianelli**, Brian Wong, Shawn Lansing, Lachlan McKinna. Though I wasn’t able to incorporate all their knowledge in the final iteration of this paper, I am grateful for how they expanded my horizons.*
+*...The following people have also helped me with their expertise: Eric Magliarditi, Matthew Moraguez, Nicole Stockley, Timothy Wynne, Sherrie Wang, Silvia Ullo, Andrea Radius, **Alessandro Sebastianelli**, Brian Wong, Shawn Lansing, Lachlan McKinna. Though I wasn’t able to incorporate all their knowledge in the final iteration of this paper, I am grateful for how they expanded my horizons...*
