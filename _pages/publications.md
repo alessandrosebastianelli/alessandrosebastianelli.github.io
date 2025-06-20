@@ -17,6 +17,23 @@ I started co-authoring scientific papers since 2018, during these years I collab
 ![](/images/collaborations.png)
 
 
+## Book
+
+### Artificial Intelligence Applied to Satellite-based Remote Sensing Data for Earth Observation
+
+
+> **Editors:**\
+> Maria Pia Del Rosso; Alessandro Pia Sebastianelli; Silvia Liberata Ullo\
+> Published in 2021\
+> 283 pages\
+> ISBN: 978-1-83953-212-2\
+> e-ISBN: 978-1-83953-213-9\
+> https://doi.org/10.1049/PBTE098E
+
+
+Buy it on: [IET Digital Library](https://digital-library.theiet.org/doi/book/10.1049/pbte098e) | [Amazon](https://www.amazon.it/Artificial-Intelligence-Applied-Satellite-based-Observation/dp/1839532122)
+
+
 ## 2024
 
 | apa | year | type | url | arxiv |
