@@ -17,7 +17,7 @@ I started co-authoring scientific papers since 2018, during these years I collab
 ![](/images/collaborations.png)
 
 
-## Book
+## Books
 
 ### Artificial Intelligence Applied to Satellite-based Remote Sensing Data for Earth Observation
 
@@ -34,7 +34,9 @@ I started co-authoring scientific papers since 2018, during these years I collab
 Buy it on: [IET Digital Library](https://digital-library.theiet.org/doi/book/10.1049/pbte098e) or [Amazon](https://www.amazon.it/Artificial-Intelligence-Applied-Satellite-based-Observation/dp/1839532122)
 
 
-## 2024
+## Papers
+
+### 2024
 
 | apa | year | type | url | arxiv |
 |-----|------|------|-----|-------|
@@ -52,7 +54,7 @@ Buy it on: [IET Digital Library](https://digital-library.theiet.org/doi/book/10.
 |Mauro, Francesco; Sebastianelli, Alessandro; Del Rosso, Maria Pia; Gamba, Paolo; Ullo, Silvia Liberata; . (2024). QSpeckleFilter: a Quantum Machine Learning approach for SAR speckle filtering. arXiv preprint arXiv:2402.01235. ''|2024|Conference|-|[ArXiv](https://arxiv.org/abs/2402.01235)|
 |Russo, Luigi; Mauro, Francesco; Memar, Babak; Sebastianelli, Alessandro; Gamba, Paolo; Ullo, Silvia Liberata; . (2024). Using Multi-Temporal Sentinel-1 and Sentinel-2 data for water bodies mapping. arXiv preprint arXiv:2402.00023. ''|2024|Conference|-|[ArXiv](https://arxiv.org/abs/2402.00023)|
 
-## 2023
+### 2023
 
 | apa | year | type | url | arxiv |
 |-----|------|------|-----|-------|
@@ -66,7 +68,7 @@ Buy it on: [IET Digital Library](https://digital-library.theiet.org/doi/book/10.
 |De Falco, F; Ceschini, A; Sebastianelli, A; Panella, M; Le Saux, B; . (2023). Towards Quantum Diffusion Models. Proceedings of Quantum Techniques in Machine Learning (QTML 2023). ''|2023|Conference|[url](https://iris.uniroma1.it/handle/11573/1710429)|-|
 |Mair, S; Sebastianelli, A; Ceschini, A; Vidal, S; Panella, M; Le Saux, B; . (2023). Towards Strategies to Avoid Barren Plateaus. Proceedings of Quantum Techniques in Machine Learning (QTML 2023). ''|2023|Conference|[url](https://iris.uniroma1.it/handle/11573/1710430)|-|
 
-## 2022
+### 2022
 
 | apa | year | type | url | arxiv |
 |-----|------|------|-----|-------|
@@ -76,7 +78,7 @@ Buy it on: [IET Digital Library](https://digital-library.theiet.org/doi/book/10.
 |Sebastianelli, Alessandro; Mauro, Francesco; Di Cosmo, Gianluca; Passarini, Fabrizio; Carminati, Marco; Ullo, Silvia Liberata; . (2022). A Decision Support System Based on Machine Learning to Counteract Covid-Like Pandemic Events. IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium. IEEE|2022|Conference|[url](https://ieeexplore.ieee.org/abstract/document/9883847)|-|
 |Sebastianelli, Alessandro; Del Rosso, Maria Pia; Ullo, Silvia L; Gamba, Paolo; . (2022). A speckle filter for Sentinel-1 SAR ground range detected data based on residual convolutional neural networks. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. IEEE|2022|Journal|[url](https://ieeexplore.ieee.org/abstract/document/9800702)|[ArXiv](https://arxiv.org/abs/2104.09350)|
 
-## 2021
+### 2021
 
 | apa | year | type | url | arxiv |
 |-----|------|------|-----|-------|
@@ -100,19 +102,19 @@ Buy it on: [IET Digital Library](https://digital-library.theiet.org/doi/book/10.
 |Rosso, MPD; Ullo, SILVIA LIBERATA; Sebastianelli, Alessandro; Spiller, Dario; Puglisi, Erika; Biondi, Filippo; Orlando, Danilo; . (2021). Artificial neural network. Artificial intelligence applied to satellite-based remote sensing data for earth observation. Institution of Engineering and Technology|2021|Book-ch|[url](https://iris.unisannio.it/handle/20.500.12070/49976)|-|
 |Schneider, Rochelle; Sebastianelli, Alessandro; Spiller, Dario; Wheeler, James; Carmo, Raquel; Nowakowski, Artur; Garcia-Herranz, Manuel; Kim, Dohyung; Barlevi, Hanoch; Cordero, Zoraya El Raiss; . (2021). Climate-based ensemble machine learning model to forecast Dengue epidemics (papers track). Thirty-eighth International Conference on Machine Learning (ICML) 2021. ''|2021|Conference|[url](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2021/10/paper.pdf)|-|
 
-## 2020
+### 2020
 
 | apa | year | type | url | arxiv |
 |-----|------|------|-----|-------|
 |De Corso, Tony; Mignone, Luca; Sebastianelli, Alessandro; del Rosso, Maria P; Yost, Claire; Ciampa, Elena; Pecce, Marisa; Sica, Stefania; Ullo, Silvia; . (2020). Application of DInSAR technique to high coherence satellite images for strategic infrastructure monitoring. IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium. IEEE|2020|Conference|[url](https://ieeexplore.ieee.org/abstract/document/9323810)|[ArXiv](https://arxiv.org/abs/2004.09501)|
 
-## 2019
+### 2019
 
 | apa | year | type | url | arxiv |
 |-----|------|------|-----|-------|
 |Ullo, Silvia Liberata; Langenkamp, Maximillian S; Oikarinen, Tuomas P; Del Rosso, Maria Pia; Sebastianelli, Alessandro; Piccirillo, Federica; Sica, Stefania; . (2019). Landslide geohazard assessment with convolutional neural networks using sentinel-2 imagery data. IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium. IEEE|2019|Conference|[url](https://ieeexplore.ieee.org/abstract/document/8898632)|[ArXiv](https://arxiv.org/abs/1906.06151)|
 
-## 2018
+### 2018
 
 | apa | year | type | url | arxiv |
 |-----|------|------|-----|-------|
