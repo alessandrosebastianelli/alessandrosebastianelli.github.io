@@ -31,7 +31,7 @@ I started co-authoring scientific papers since 2018, during these years I collab
 > https://doi.org/10.1049/PBTE098E
 
 
-Buy it on: [IET Digital Library](https://digital-library.theiet.org/doi/book/10.1049/pbte098e) | [Amazon](https://www.amazon.it/Artificial-Intelligence-Applied-Satellite-based-Observation/dp/1839532122)
+Buy it on: [IET Digital Library](https://digital-library.theiet.org/doi/book/10.1049/pbte098e) or [Amazon](https://www.amazon.it/Artificial-Intelligence-Applied-Satellite-based-Observation/dp/1839532122)
 
 
 ## 2024
