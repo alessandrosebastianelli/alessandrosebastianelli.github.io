@@ -10,7 +10,7 @@ redirect_from:
 
 Alessandro Sebastianelli received the degree (cum laude) in electronic engineering for automation and telecommunications from the [University of Sannio][sannio] where he also pursed the Ph.D. degree in Information Technologies for Engineering. 
 
-His field of expertise covers remote sensing and satellite data analysis, artificial intelligence for earth observation and quantum computing. He coauthored a book and several articles to reputed journals and conferences for the sector of remote sensing. He received an IEEE award for one the best the thesis in geoscience and remote sensing. 
+His field of expertise covers remote sensing and satellite data analysis, artificial intelligence for earth observation and quantum computing. He coauthored a book and several articles to reputed journals and conferences for the sector of remote sensing. He received an IEEE award for one the best three theses in geoscience and remote sensing. 
 
 He has been firstly a visiting researcher and later a research fellow at [ESA](ESRIN) [Φ-lab][Φ-lab]. He has won an ESA OSIP proposal in August 2020.
 He is leading the working group on quantum computing for EO in the [QUEST][quest] [IEEE GRSSS][grss] technical committee.
