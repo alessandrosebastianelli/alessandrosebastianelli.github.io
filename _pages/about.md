@@ -8,12 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Alessandro Sebastianelli received the degree (cum laude) in electronic engineering for automation and telecommunications from the [University of Sannio][sannio] where he also pursed the Ph.D. degree in Information Technologies for Engineering. 
+Alessandro Sebastianelli received the degree (cum laude) in Electronic Engineering for Automation and Telecommunications from the [University of Sannio][sannio] in 2019, where he also obtained the Ph.D. degree in Information Technologies for Engineering in 2022. His expertise covers remote sensing and satellite data analysis, artificial intelligence for Earth observation, and quantum computing. He has coauthored a book and numerous articles in reputed journals and international conferences in the field of remote sensing, receiving several awards for his contributions, including those related to health-focused research. He has also managed and chaired sessions at leading workshops and international conferences. He received an IEEE award for one of the best theses in geoscience and remote sensing. He served as a visiting researcher and later as a research fellow at the European Space Agency ([ESA](ESRIN) [Φ-lab][Φ-lab]) for a total of six years, until 2025, where he was responsible for both the research line and industrial activities on quantum computing for Earth observation. After a selective process, he was awarded ESA co-funding through the OSIP program to carry out research on AI-driven domain translation and data fusion for Earth observation applications. He also worked for a few months as an Earth Observation Engineer at Titan4, focusing on structural monitoring based on SAR and optical satellite data. He currently leads the QC4EO working group within the [QUEST][quest] [IEEE GRSSS][grss] Technical Committee. In 2025, he joined the Euro-Mediterranean Center on Climate Change ([CMCC][CMCC]) as a Junior Scientist in the [REMHI][REMHI] Division and PRESTO Unit.
 
-His field of expertise covers remote sensing and satellite data analysis, artificial intelligence for earth observation and quantum computing. He coauthored a book and several articles to reputed journals and conferences for the sector of remote sensing. He received an IEEE award for one the best three theses in geoscience and remote sensing. 
-
-He has been firstly a visiting researcher and later a research fellow at [ESA](ESRIN) [Φ-lab][Φ-lab]. He has won an ESA OSIP proposal in August 2020.
-He is leading the working group on quantum computing for EO in the [QUEST][quest] [IEEE GRSSS][grss] technical committee.
 
 In his spare time he enjoys photography [instagram page][insta]/[photographer portfolio][photo].
 
@@ -56,3 +52,5 @@ Download his full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 [quest]: https://www.grss-ieee.org/technical-committees/quantum-earth-science-and-technology-quest/
 [tutorial-qml4eo]: https://github.com/alessandrosebastianelli/QML4EO-tutorial
 [ai4eo-course]: https://github.com/alessandrosebastianelli/AI4EO
+[CMCC]: https://www.cmcc.it/
+[REMHI]: https://www.cmcc.it/it/what-we-do/institutes/institute-for-climate-resilience-icr/regional-models-and-geo-hydrological-impacts
