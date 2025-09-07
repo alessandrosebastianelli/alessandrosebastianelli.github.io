@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alessandro Sebastianelli"
 title_separator          : "-"
 name                     : &name "Alessandro Sebastianelli"
-description              : &description "Junior Scientist at CMCC"
+description              : &description "Researcher at CMCC | QC4EO WG lead IEEE GRSS QUEST | Topical Associate Editor IEEE TGRS"
 url                      : https://alessandrosebastianelli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alessandrosebastianelli/alessandrosebastianelli.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alessandro Sebastianelli"
   avatar           : "profile.jpg"
-  bio              : "ESA Research Fellow in Quantum Computing for Earth Observation"
+  bio              : "Researcher at CMCC | QC4EO WG lead IEEE GRSS QUEST | Topical Associate Editor IEEE TGRS"
   location         : "Rome, Italy"
   employer         :
   pubmed           : 
