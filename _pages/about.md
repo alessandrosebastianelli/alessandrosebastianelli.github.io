@@ -17,7 +17,7 @@ Download his full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 
 ## News 
 
-- [8  may 2024] [quantum computing for earth observation slides][qc4eo-slides] are now out
+- [15 oct 2025] [quantum computing for earth observation slides][qc4eo-slides] are now out
 - [3  may 2024] [irradianceai][irrai] is now out
 - [3  apr 2024] [awesome-QC4EO][aqc4eo] is now out
 - [22 aug 2023] [tutorial on hybrid quantum classifier][tutorial-qml4eo] is now out
