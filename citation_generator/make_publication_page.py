@@ -189,6 +189,7 @@ def parse_bibtex_file(filepath):
     entries = ['@' + entry if not entry.startswith('@') else entry for entry in entries if entry.strip()]
     
     publications = []
+    seen_titles = {}  # Track publications by normalized title
     
     for entry in entries:
         if not entry.strip() or entry.strip().startswith('%'):
@@ -196,6 +197,13 @@ def parse_bibtex_file(filepath):
         
         fields = parse_bibtex_entry(entry)
         if fields and 'year' in fields:
+            # Normalize title for comparison (lowercase, no punctuation)
+            title = fields.get('title', '').lower()
+            title_normalized = re.sub(r'[^\w\s]', '', title).strip()
+            
+            if not title_normalized:
+                continue
+            
             apa = format_apa_citation(fields)
             pub_type = determine_type(entry, fields)
             author_pos = find_author_position(fields.get('author', ''))
@@ -206,8 +214,29 @@ def parse_bibtex_file(filepath):
                 'type': pub_type,
                 'url': fields.get('url', ''),
                 'position': author_pos,
+                'publication': fields.get('publication', ''),
+                'title_normalized': title_normalized,
             }
-            publications.append(pub)
+            
+            # Check if we've seen this title before
+            if title_normalized in seen_titles:
+                existing = seen_titles[title_normalized]
+                # Prefer non-ArXiv publications
+                existing_is_arxiv = 'arxiv' in existing.get('publication', '').lower()
+                current_is_arxiv = 'arxiv' in pub.get('publication', '').lower()
+                
+                # Replace if current is not ArXiv and existing is ArXiv
+                # OR if both are ArXiv/non-ArXiv but current has a URL and existing doesn't
+                if (existing_is_arxiv and not current_is_arxiv) or \
+                   (existing_is_arxiv == current_is_arxiv and pub['url'] and not existing['url']):
+                    # Remove old entry from publications list
+                    publications = [p for p in publications if p['title_normalized'] != title_normalized]
+                    publications.append(pub)
+                    seen_titles[title_normalized] = pub
+                # Otherwise keep existing and skip current
+            else:
+                publications.append(pub)
+                seen_titles[title_normalized] = pub
     
     return publications
 
@@ -292,7 +321,6 @@ Buy it on: [IET Digital Library](https://digital-library.theiet.org/doi/book/10.
         f.write(md_content)
     
     print(f"Markdown file generated: {output_file}")
-
 
 if __name__ == '__main__':
     BIB_FILE = 'citation_generator/works.bib'

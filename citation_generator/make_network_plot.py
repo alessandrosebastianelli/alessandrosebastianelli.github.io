@@ -102,7 +102,7 @@ def get_full_name(name):
 
 
 def parse_bibtex_authors(filepath):
-    """Parse BibTeX file and extract co-authorship information."""
+    """Parse BibTeX file and extract co-authorship information including co-author connections."""
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
     
@@ -112,6 +112,7 @@ def parse_bibtex_authors(filepath):
     
     # Track collaborations with full names as keys
     author_collaborations = defaultdict(int)
+    coauthor_connections = defaultdict(int)  # Track connections between co-authors
     seen_normalized = {}  # Map normalized tuples to chosen display name
     
     target_normalized = normalize_author_name("Alessandro Sebastianelli")
@@ -166,25 +167,35 @@ def parse_bibtex_authors(filepath):
         
         # If Alessandro is in this paper, count collaborations with others
         if has_target:
+            non_alessandro_authors = []
             for display_name in paper_authors:
                 # Check if this is Alessandro
                 author_norm = normalize_author_name(display_name)
                 if author_norm != target_normalized:
                     author_collaborations[display_name] += 1
+                    non_alessandro_authors.append(display_name)
+            
+            # Count co-author connections (between non-Alessandro authors on same paper)
+            for i, author1 in enumerate(non_alessandro_authors):
+                for author2 in non_alessandro_authors[i+1:]:
+                    # Create ordered pair for consistent key
+                    pair = tuple(sorted([author1, author2]))
+                    coauthor_connections[pair] += 1
     
-    return author_collaborations, target_normalized
+    return author_collaborations, coauthor_connections, target_normalized
 
 
 def create_collaboration_network(bib_file, output_file):
     """Create a network visualization of co-authors."""
     print("Parsing BibTeX file for co-authors...")
-    collaborations, target = parse_bibtex_authors(bib_file)
+    collaborations, coauthor_connections, target = parse_bibtex_authors(bib_file)
     
     if not collaborations:
         print("No collaborations found!")
         return
     
     print(f"Found {len(collaborations)} unique co-authors (after consolidation)")
+    print(f"Found {len(coauthor_connections)} co-author connections")
     
     # Create graph
     G = nx.Graph()
@@ -193,10 +204,15 @@ def create_collaboration_network(bib_file, output_file):
     target_name = "Sebastianelli, Alessandro"
     G.add_node(target_name, node_type='center', papers=sum(collaborations.values()))
     
-    # Add co-author nodes and edges
+    # Add co-author nodes and edges to Alessandro
     for coauthor_name, count in collaborations.items():
         G.add_node(coauthor_name, node_type='coauthor', papers=count)
-        G.add_edge(target_name, coauthor_name, weight=count)
+        G.add_edge(target_name, coauthor_name, weight=count, edge_type='alessandro')
+    
+    # Add edges between co-authors
+    for (author1, author2), count in coauthor_connections.items():
+        if author1 in G.nodes and author2 in G.nodes:
+            G.add_edge(author1, author2, weight=count, edge_type='coauthor')
     
     # Create visualization
     fig, ax = plt.subplots(figsize=(22, 18), facecolor='white')
@@ -220,60 +236,85 @@ def create_collaboration_network(bib_file, output_file):
     center_size = [5000]  # Fixed size for Alessandro (not shown)
     coauthor_sizes = [max(600, G.nodes[n]['papers'] * 400) for n in coauthor_nodes]  # Doubled from 300/200
     
-    # Edge widths and colors based on collaboration count
-    edges = G.edges()
-    weights = [G[u][v]['weight'] for u, v in edges]
-    max_weight = max(weights) if weights else 1
+    # Assign unique colors to each co-author
+    num_authors = len(coauthor_nodes)
+    # Use a colormap with good distinction
+    cmap = plt.cm.get_cmap('tab20')  # Up to 20 distinct colors, cycle if more
+    author_colors = {}
+    for i, author in enumerate(coauthor_nodes):
+        author_colors[author] = cmap(i % 20)
     
-    # Draw edges with curved style (like the reference image)
-    for (u, v), weight in zip(edges, weights):
-        # Calculate edge properties
-        alpha = 0.3 + (weight / max_weight) * 0.5
-        edge_width = 0.5 + (weight / max_weight) * 3
+    # Draw edges separately: Alessandro connections vs co-author connections
+    alessandro_edges = [(u, v) for u, v, d in G.edges(data=True) if d.get('edge_type') == 'alessandro']
+    coauthor_edges = [(u, v) for u, v, d in G.edges(data=True) if d.get('edge_type') == 'coauthor']
+    
+    # Draw co-author interconnections (thinner, gray)
+    if coauthor_edges:
+        coauthor_weights = [G[u][v]['weight'] for u, v in coauthor_edges]
+        max_coauthor_weight = max(coauthor_weights) if coauthor_weights else 1
         
-        # Color based on weight (using a pastel color scheme like the reference)
-        color_intensity = weight / max_weight
-        # Use different color ranges for different collaboration strengths
-        if color_intensity > 0.7:
-            color = plt.cm.Greens(0.4 + color_intensity * 0.3)  # Dark green
-        elif color_intensity > 0.4:
-            color = plt.cm.YlOrBr(0.3 + color_intensity * 0.3)  # Orange
-        elif color_intensity > 0.2:
-            color = plt.cm.RdPu(0.3 + color_intensity * 0.3)  # Pink/Purple
-        else:
-            color = plt.cm.Blues(0.3 + color_intensity * 0.3)  # Light blue
+        for (u, v), weight in zip(coauthor_edges, coauthor_weights):
+            alpha = 0.2 + (weight / max_coauthor_weight) * 0.3
+            edge_width = 0.5 + (weight / max_coauthor_weight) * 1.5
+            
+            nx.draw_networkx_edges(
+                G, pos, [(u, v)], 
+                width=edge_width,
+                alpha=alpha, 
+                edge_color='gray',
+                connectionstyle='arc3,rad=0.1',
+                arrows=True,
+                arrowstyle='-',
+                ax=ax
+            )
+    
+    # Draw Alessandro connections (colored, thicker)
+    if alessandro_edges:
+        alessandro_weights = [G[u][v]['weight'] for u, v in alessandro_edges]
+        max_weight = max(alessandro_weights) if alessandro_weights else 1
         
-        # Draw curved edges
-        nx.draw_networkx_edges(
-            G, pos, [(u, v)], 
-            width=edge_width,
-            alpha=alpha, 
-            edge_color=[color],
-            connectionstyle='arc3,rad=0.1',  # Curved edges
-            arrows=True,
-            arrowstyle='-',  # No arrow heads, just curves
-            ax=ax
-        )
+        for (u, v), weight in zip(alessandro_edges, alessandro_weights):
+            # Calculate edge properties
+            alpha = 0.3 + (weight / max_weight) * 0.5
+            edge_width = 0.5 + (weight / max_weight) * 3
+            
+            # Color based on weight
+            color_intensity = weight / max_weight
+            if color_intensity > 0.7:
+                color = plt.cm.Greens(0.4 + color_intensity * 0.3)
+            elif color_intensity > 0.4:
+                color = plt.cm.YlOrBr(0.3 + color_intensity * 0.3)
+            elif color_intensity > 0.2:
+                color = plt.cm.RdPu(0.3 + color_intensity * 0.3)
+            else:
+                color = plt.cm.Blues(0.3 + color_intensity * 0.3)
+            
+            nx.draw_networkx_edges(
+                G, pos, [(u, v)], 
+                width=edge_width,
+                alpha=alpha, 
+                edge_color=[color],
+                connectionstyle='arc3,rad=0.1',
+                arrows=True,
+                arrowstyle='-',
+                ax=ax
+            )
     
     # Don't draw center node (Alessandro) - keep invisible as connection point only
-    # Comment out: nx.draw_networkx_nodes for center_nodes
     
-    # Draw co-author nodes with color gradient based on collaboration count
-    node_colors = [G.nodes[n]['papers'] for n in coauthor_nodes]
-    nx.draw_networkx_nodes(
-        G, pos, 
-        nodelist=coauthor_nodes,
-        node_size=coauthor_sizes, 
-        node_color=node_colors,
-        cmap=plt.cm.YlOrRd,  # Yellow to orange to red gradient
-        node_shape='o', 
-        alpha=0.85, 
-        edgecolors='black',
-        linewidths=1.5,
-        ax=ax,
-        vmin=1, 
-        vmax=max(node_colors) if node_colors else 1
-    )
+    # Draw co-author nodes with unique colors for each author
+    for i, author in enumerate(coauthor_nodes):
+        nx.draw_networkx_nodes(
+            G, pos, 
+            nodelist=[author],
+            node_size=[coauthor_sizes[i]], 
+            node_color=[author_colors[author]],
+            node_shape='o', 
+            alpha=0.85, 
+            edgecolors='black',
+            linewidths=1.5,
+            ax=ax
+        )
     
     # Draw labels with black font
     # Don't draw center label since center node is invisible
@@ -293,17 +334,23 @@ def create_collaboration_network(bib_file, output_file):
     plt.title("Collaboration Network - Alessandro Sebastianelli", 
              fontsize=26, fontweight='bold', pad=20)  # Increased from 20
     
-    # Add legend for node size - LARGER SIZES
+    # Add legend for node size - LARGER SIZES and BIGGER CIRCLES
     legend_sizes = [1, 3, 5, 10]
     legend_elements = []
     for size in legend_sizes:
-        legend_elements.append(plt.scatter([], [], s=size*400, c='orange', alpha=0.6,  # Doubled from 200
-                                          edgecolors='black', linewidths=1.5,
-                                          label=f'{size} paper{"s" if size > 1 else ""}'))
+        legend_elements.append(
+            plt.Line2D([0], [0], marker='o', color='w', 
+                      markerfacecolor='orange', markersize=np.sqrt(size*400/10),  # Scale properly
+                      markeredgecolor='black', markeredgewidth=1.5,
+                      label=f'{size} paper{"s" if size > 1 else ""}', linestyle='None')
+        )
     
-    ax.legend(handles=legend_elements, loc='upper right', fontsize=14,  # Increased from 11
-             title='Collaboration Count', title_fontsize=16,  # Increased from 12
-             frameon=True, fancybox=True, shadow=True)
+    legend = ax.legend(handles=legend_elements, loc='upper right', fontsize=14,  # Increased from 11
+                      title='Collaboration Count', title_fontsize=16,  # Increased from 12
+                      frameon=True, fancybox=True, shadow=True)
+    # Make legend frame larger
+    legend.get_frame().set_linewidth(2)
+    legend.get_frame().set_edgecolor('black')
     
     # Remove title (cleaner look like reference)
     # Just keep it minimal
@@ -311,19 +358,6 @@ def create_collaboration_network(bib_file, output_file):
     # Add subtle text box with statistics in corner
     total_coauthors = len(coauthor_nodes)
     total_collaborations = sum(collaborations.values())
-    
-    # Add small legend/watermark in corner - LARGER FONT
-    ax.text(
-        0.02, 0.02, 
-        f'{total_coauthors}\n{total_collaborations}\n{len(G.edges())}',
-        transform=ax.transAxes, 
-        fontsize=22,  # Increased from 18
-        verticalalignment='bottom',
-        horizontalalignment='left',
-        bbox=dict(boxstyle='round,pad=0.5', facecolor='white', edgecolor='gray', alpha=0.8),
-        family='monospace',
-        weight='bold'
-    )
     
     ax.set_aspect('equal')
     ax.axis('off')
@@ -340,7 +374,6 @@ def create_collaboration_network(bib_file, output_file):
         print(f"{i}. {name}: {count} papers")
     
     plt.close()
-
 
 if __name__ == '__main__':
     BIB_FILE = 'citation_generator/works.bib'
