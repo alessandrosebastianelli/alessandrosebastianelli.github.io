@@ -3,6 +3,9 @@ from collections import defaultdict
 
 def parse_bibtex_entry(entry):
     """Parse a single BibTeX entry and extract relevant fields."""
+    # Clean up any double @@ at the start
+    entry = re.sub(r'^@+\s*@', '@', entry.strip())
+    
     # Extract entry type and cite key
     entry_match = re.match(r'@(\w+)\s*\{([^,]+),', entry)
     if not entry_match:
@@ -321,6 +324,7 @@ Buy it on: [IET Digital Library](https://digital-library.theiet.org/doi/book/10.
         f.write(md_content)
     
     print(f"Markdown file generated: {output_file}")
+
 
 if __name__ == '__main__':
     BIB_FILE = 'citation_generator/works.bib'

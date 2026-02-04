@@ -36,6 +36,12 @@ Buy it on: [IET Digital Library](https://digital-library.theiet.org/doi/book/10.
 
 ## Papers
 
+### 2026
+
+| apa | year | type | position | url |
+|-----|------|------|----------|-----|
+|Miroszewski, Artur, Nalepa, Jakub, Wijata, Agata M., Mielczarek, Jakub, Saux, Bertrand Le, **Sebastianelli, Alessandro** (2026)<br/>*"Quo Vadis, Quantum Machine Learning?: Quantum kernel methods meet Earth observation"*<br/>*IEEE Geoscience and Remote Sensing Magazine*|2026|Journal|6th|[url](https://doi.org/10.1109/mgrs.2025.3596291)|
+
 ### 2025
 
 | apa | year | type | position | url |
