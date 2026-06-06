@@ -17,6 +17,7 @@ Download his full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 
 ## News 
 
+- [6  jun 2026] [MappySAT][mappysat] is now out
 - [15 oct 2025] [quantum computing for earth observation slides][qc4eo-slides] are now out
 - [3  may 2024] [irradianceai][irrai] is now out
 - [3  apr 2024] [awesome-QC4EO][aqc4eo] is now out
@@ -55,3 +56,4 @@ Download his full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 [CMCC]: https://www.cmcc.it/
 [REMHI]: https://www.cmcc.it/it/what-we-do/institutes/institute-for-climate-resilience-icr/regional-models-and-geo-hydrological-impacts
 [TGRS]: https://www.grss-ieee.org/publications/author-resources/tgrs-editorial-board/
+[mappysat]: https://alessandrosebastianelli.github.io/MappySAT/
