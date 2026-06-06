@@ -17,6 +17,7 @@ Download his full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 
 ## News 
 
+
 - [6  jun 2026] [MappySAT][mappysat] is now out
 - [15 oct 2025] [quantum computing for earth observation slides][qc4eo-slides] are now out
 - [3  may 2024] [irradianceai][irrai] is now out
