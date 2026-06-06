@@ -17,13 +17,12 @@ Download his full [Curriculum Vitae here](/images/cv_asebastianelli.pdf).
 
 ## News 
 
-
-- [6  jun 2026]  [MappySAT][mappysat] is now out
-- [15 oct 2025] [quantum computing for earth observation slides][qc4eo-slides] are now out
-- [3  may 2024] [irradianceai][irrai] is now out
-- [3  apr 2024] [awesome-QC4EO][aqc4eo] is now out
-- [22 aug 2023] [tutorial on hybrid quantum classifier][tutorial-qml4eo] is now out
-- [2  sep 2022] [artificial intelligence for earth observation (mini-course)][ai4eo-course]
+- [06 jun 2026] -- [MappySAT][mappysat] is now out
+- [15 oct 2025] -- [quantum computing for earth observation slides][qc4eo-slides] are now out
+- [03 may 2024] -- [irradianceai][irrai] is now out
+- [03 apr 2024] -- [awesome-QC4EO][aqc4eo] is now out
+- [22 aug 2023] -- [tutorial on hybrid quantum classifier][tutorial-qml4eo] is now out
+- [02 sep 2022]~[artificial intelligence for earth observation (mini-course)][ai4eo-course]
 
 <!--
 <details>
