@@ -9,34 +9,34 @@ author_profile: true
 
 
 ## Junior Scientist
-### Sep 2025 - current, <a href="https://www.cmcc.it/it" target="_blank">CMCC</a>, ICR, REMHI, PRESTO
+### Sep 2025 - current, <a href="https://www.cmcc.it/it" target="_blank">CMCC</a>, REMHI Division, PRESTO Unit
 
-**Main activities and responsibilities**: Research activity on Climate Science, integrating Earth Observation & Artificial Intelligence
+**Main activities and responsibilities**: Research activity on Climate Science, integrating Earth Observation and Artificial Intelligence techniques.
 
 
 ## Research Fellow in Quantum Computing for Earth Observation
-### Oct 2022 - current, <a href="https://philab.esa.int" target="_blank">ESa-$\Phi$-lab</a>
+### Oct 2022 - Aug 2025, <a href="https://philab.esa.int" target="_blank">ESA, ESRIN, Φ-lab</a>
 
-**Main activities and responsibilities**: Research activity on Quantum Machine Learning applied to Remote Sensing data.
+**Main activities and responsibilities**: Research activity on Quantum Machine Learning and Quantum Computing applied to Earth Observation and the space sector, with a focus on operationability. Technical Officer for the QC4EO OSIP activities, for the ITT on QC4EO and Blockchain4EO, and for several AI and Earth Observation initiatives. TEB expert evaluator.
 
 
-## OSIP 
-### Jan 2020 - Oct 2022, <a href="https://philab.phi.esa.int" target="_blank">ESA, ESRIN, ⏀-lab</a>
+## OSIP — AI-Powered Cross-Modal Adaptation for Earth Observation
+### Jan 2020 - Oct 2022, <a href="https://philab.esa.int" target="_blank">ESA, ESRIN, Φ-lab</a>
 
-**Main activities and responsibilities**: Technical responsible for the OSIP activity: AI-Powered cross-modal adaptation techniques applied to Sentinel-1 and -2 data
+**Main activities and responsibilities**: Technical responsible for the ESA co-funded OSIP activity: AI-powered cross-modal adaptation techniques applied to Sentinel-1 and Sentinel-2 data.
+
+
+## Visiting Researcher
+### Jul 2019 - Nov 2019, <a href="https://philab.esa.int" target="_blank">ESA, ESRIN, Φ-lab</a>
+
+**Main activities and responsibilities**: Master's internship at ESA Φ-lab. Creation of neural networks for Earth Observation applications. Implementation of scripts for creating satellite image datasets. Monitoring of natural disasters such as landslides and volcanic eruptions. Processing of Sentinel data.
+
+**Acquired skills and achieved objectives**: Advanced concepts of machine learning and neural networks, advanced concepts of Python programming, advanced concepts of data science. Management of computing resources and work on virtual machines. Team working. Co-organization of a side event at the Φ-Week 2020.
 
 
 ## Earth Observation Engineer
 ### Sep 2019 - Nov 2019, <a href="http://www.titan4.it" target="_blank">Titan4</a>
 
-**Main activities and responsibilities**: Research activity on satellite data and application development, mainly for structural monitoring, based on SAR and optical satellite data. Use and validation of a tool for the measurement of displacements.
+**Main activities and responsibilities**: Research activity on satellite data and application development, mainly for structural monitoring based on SAR and optical satellite data. Use and validation of a tool for the measurement of displacements. The start-up was incubated in ESA BIC Lazio.
 
-**Acquired skills and achieved objectives**: Employed as: office worker - consulting/collaboration; Business or sector: Engineering and design, computer science, data processing and acquisition
-            
-
-## Visiting Researcher
-### Jul 2019 - Oct 2022 <a href="https://philab.phi.esa.int" target="_blank">ESA, ESRIN, ⏀-lab</a>
-
-**Main activities and responsibilities**: Creation of neural networks for earth observation applications. Implementation of scripts for creating satellite image datasets. Monitoring of natural disasters such as landslides and volcanic eruptions. Creation of networks for filtering satellite data. Creation of artificial satellite image datasets. Processing of Sentinel data.
-
-**Acquired skills and achieved objectives**: Advanced concepts of machine learning and neural networks, advanced concepts of Python programming, advanced concepts of data science. Management of computing power and work on virtual machines. Team working. Organization of a side event in the ⏀-week of 2019.
+**Acquired skills and achieved objectives**: Applied remote sensing for structural monitoring, satellite data processing, and validation of displacement measurement tools.
