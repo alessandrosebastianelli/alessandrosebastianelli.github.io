@@ -8,6 +8,11 @@ author_profile: true
 {% include base_path %}
 
 
+## Junior Scientist
+### Sep 2025 - current, <a href="https://www.cmcc.it/it" target="_blank">CMCC</a>, ICR, REMHI, PRESTO
+
+**Main activities and responsibilities**: Research activity on Climate Science, integrating Earth Observation & Artificial Intelligence
+
 
 ## Research Fellow in Quantum Computing for Earth Observation
 ### Oct 2022 - current, <a href="https://philab.esa.int" target="_blank">ESa-$\Phi$-lab</a>
