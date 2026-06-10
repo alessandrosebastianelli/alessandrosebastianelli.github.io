@@ -9,7 +9,7 @@ author_profile: true
 
 
 ## Junior Scientist
-### Sep 2025 - current, <a href="https://www.cmcc.it/it" target="_blank">CMCC</a>, REMHI Division, PRESTO Unit
+### Sep 2025 - current, <a href="https://www.cmcc.it/it" target="_blank">CMCC</a>, ICR, REMHI Division, PRESTO Unit
 
 **Main activities and responsibilities**: Research activity on Climate Science, integrating Earth Observation and Artificial Intelligence techniques.
 
