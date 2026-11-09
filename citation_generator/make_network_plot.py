@@ -239,7 +239,7 @@ def create_collaboration_network(bib_file, output_file):
     # Assign unique colors to each co-author
     num_authors = len(coauthor_nodes)
     # Use a colormap with good distinction
-    cmap = plt.cm.get_cmap('tab20')  # Up to 20 distinct colors, cycle if more
+    cmap = plt.get_cmap('tab20') # Up to 20 distinct colors, cycle if more
     author_colors = {}
     for i, author in enumerate(coauthor_nodes):
         author_colors[author] = cmap(i % 20)
